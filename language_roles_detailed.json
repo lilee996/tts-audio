@@ -7,7 +7,7 @@
       {
         "friendlyName": "Christel",
         "shortName": "da-DK-ChristelNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Danish/da-DK-ChristelNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Danish/da-DK-ChristelNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "da-DK",
@@ -19,7 +19,7 @@
       {
         "friendlyName": "Jeppe",
         "shortName": "da-DK-JeppeNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Danish/da-DK-JeppeNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Danish/da-DK-JeppeNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "da-DK",
@@ -38,7 +38,7 @@
       {
         "friendlyName": "Dmitry",
         "shortName": "ru-RU-DmitryNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Russian/ru-RU-DmitryNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Russian/ru-RU-DmitryNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "ru-RU",
@@ -50,7 +50,7 @@
       {
         "friendlyName": "Svetlana",
         "shortName": "ru-RU-SvetlanaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Russian/ru-RU-SvetlanaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Russian/ru-RU-SvetlanaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "ru-RU",
@@ -69,7 +69,7 @@
       {
         "friendlyName": "Borislav",
         "shortName": "bg-BG-BorislavNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Bulgarian/bg-BG-BorislavNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Bulgarian/bg-BG-BorislavNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "bg-BG",
@@ -81,7 +81,7 @@
       {
         "friendlyName": "Kalina",
         "shortName": "bg-BG-KalinaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Bulgarian/bg-BG-KalinaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Bulgarian/bg-BG-KalinaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "bg-BG",
@@ -100,7 +100,7 @@
       {
         "friendlyName": "Noemi",
         "shortName": "hu-HU-NoemiNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Hungarian/hu-HU-NoemiNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Hungarian/hu-HU-NoemiNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "hu-HU",
@@ -112,7 +112,7 @@
       {
         "friendlyName": "Tamas",
         "shortName": "hu-HU-TamasNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Hungarian/hu-HU-TamasNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Hungarian/hu-HU-TamasNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "hu-HU",
@@ -131,7 +131,7 @@
       {
         "friendlyName": "Athina",
         "shortName": "el-GR-AthinaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Greek/el-GR-AthinaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Greek/el-GR-AthinaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "el-GR",
@@ -143,7 +143,7 @@
       {
         "friendlyName": "Nestoras",
         "shortName": "el-GR-NestorasNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Greek/el-GR-NestorasNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Greek/el-GR-NestorasNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "el-GR",
@@ -162,7 +162,7 @@
       {
         "friendlyName": "Ingrid",
         "shortName": "de-AT-IngridNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/German/de-AT-IngridNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/German/de-AT-IngridNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "de-AT",
@@ -174,7 +174,7 @@
       {
         "friendlyName": "Jonas",
         "shortName": "de-AT-JonasNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/German/de-AT-JonasNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/German/de-AT-JonasNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "de-AT",
@@ -186,7 +186,7 @@
       {
         "friendlyName": "SeraphinaMultilingual",
         "shortName": "de-DE-SeraphinaMultilingualNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/German/de-DE-SeraphinaMultilingualNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/German/de-DE-SeraphinaMultilingualNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "de-DE",
@@ -198,7 +198,7 @@
       {
         "friendlyName": "FlorianMultilingual",
         "shortName": "de-DE-FlorianMultilingualNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/German/de-DE-FlorianMultilingualNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/German/de-DE-FlorianMultilingualNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "de-DE",
@@ -210,7 +210,7 @@
       {
         "friendlyName": "Amala",
         "shortName": "de-DE-AmalaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/German/de-DE-AmalaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/German/de-DE-AmalaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "de-DE",
@@ -222,7 +222,7 @@
       {
         "friendlyName": "Conrad",
         "shortName": "de-DE-ConradNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/German/de-DE-ConradNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/German/de-DE-ConradNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "de-DE",
@@ -234,7 +234,7 @@
       {
         "friendlyName": "Katja",
         "shortName": "de-DE-KatjaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/German/de-DE-KatjaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/German/de-DE-KatjaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "de-DE",
@@ -246,7 +246,7 @@
       {
         "friendlyName": "Killian",
         "shortName": "de-DE-KillianNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/German/de-DE-KillianNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/German/de-DE-KillianNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "de-DE",
@@ -258,7 +258,7 @@
       {
         "friendlyName": "Jan",
         "shortName": "de-CH-JanNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/German/de-CH-JanNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/German/de-CH-JanNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "de-CH",
@@ -270,7 +270,7 @@
       {
         "friendlyName": "Leni",
         "shortName": "de-CH-LeniNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/German/de-CH-LeniNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/German/de-CH-LeniNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "de-CH",
@@ -289,7 +289,7 @@
       {
         "friendlyName": "GiuseppeMultilingual",
         "shortName": "it-IT-GiuseppeMultilingualNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Italian/it-IT-GiuseppeMultilingualNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Italian/it-IT-GiuseppeMultilingualNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "it-IT",
@@ -301,7 +301,7 @@
       {
         "friendlyName": "Diego",
         "shortName": "it-IT-DiegoNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Italian/it-IT-DiegoNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Italian/it-IT-DiegoNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "it-IT",
@@ -313,7 +313,7 @@
       {
         "friendlyName": "Elsa",
         "shortName": "it-IT-ElsaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Italian/it-IT-ElsaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Italian/it-IT-ElsaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "it-IT",
@@ -325,7 +325,7 @@
       {
         "friendlyName": "Isabella",
         "shortName": "it-IT-IsabellaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Italian/it-IT-IsabellaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Italian/it-IT-IsabellaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "it-IT",
@@ -344,7 +344,7 @@
       {
         "friendlyName": "Antonin",
         "shortName": "cs-CZ-AntoninNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Czech/cs-CZ-AntoninNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Czech/cs-CZ-AntoninNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "cs-CZ",
@@ -356,7 +356,7 @@
       {
         "friendlyName": "Vlasta",
         "shortName": "cs-CZ-VlastaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Czech/cs-CZ-VlastaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Czech/cs-CZ-VlastaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "cs-CZ",
@@ -375,7 +375,7 @@
       {
         "friendlyName": "Petra",
         "shortName": "sl-SI-PetraNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Slovenian/sl-SI-PetraNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Slovenian/sl-SI-PetraNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "sl-SI",
@@ -387,7 +387,7 @@
       {
         "friendlyName": "Rok",
         "shortName": "sl-SI-RokNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Slovenian/sl-SI-RokNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Slovenian/sl-SI-RokNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "sl-SI",
@@ -406,7 +406,7 @@
       {
         "friendlyName": "Keita",
         "shortName": "ja-JP-KeitaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Japanese/ja-JP-KeitaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Japanese/ja-JP-KeitaNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "ja-JP",
@@ -418,7 +418,7 @@
       {
         "friendlyName": "Nanami",
         "shortName": "ja-JP-NanamiNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Japanese/ja-JP-NanamiNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Japanese/ja-JP-NanamiNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "ja-JP",
@@ -437,7 +437,7 @@
       {
         "friendlyName": "Charline",
         "shortName": "fr-BE-CharlineNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/French/fr-BE-CharlineNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/French/fr-BE-CharlineNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "fr-BE",
@@ -449,7 +449,7 @@
       {
         "friendlyName": "Gerard",
         "shortName": "fr-BE-GerardNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/French/fr-BE-GerardNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/French/fr-BE-GerardNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "fr-BE",
@@ -461,7 +461,7 @@
       {
         "friendlyName": "Thierry",
         "shortName": "fr-CA-ThierryNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/French/fr-CA-ThierryNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/French/fr-CA-ThierryNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "fr-CA",
@@ -473,7 +473,7 @@
       {
         "friendlyName": "Antoine",
         "shortName": "fr-CA-AntoineNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/French/fr-CA-AntoineNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/French/fr-CA-AntoineNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "fr-CA",
@@ -485,7 +485,7 @@
       {
         "friendlyName": "Jean",
         "shortName": "fr-CA-JeanNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/French/fr-CA-JeanNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/French/fr-CA-JeanNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "fr-CA",
@@ -497,7 +497,7 @@
       {
         "friendlyName": "Sylvie",
         "shortName": "fr-CA-SylvieNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/French/fr-CA-SylvieNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/French/fr-CA-SylvieNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "fr-CA",
@@ -509,7 +509,7 @@
       {
         "friendlyName": "VivienneMultilingual",
         "shortName": "fr-FR-VivienneMultilingualNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/French/fr-FR-VivienneMultilingualNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/French/fr-FR-VivienneMultilingualNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "fr-FR",
@@ -521,7 +521,7 @@
       {
         "friendlyName": "RemyMultilingual",
         "shortName": "fr-FR-RemyMultilingualNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/French/fr-FR-RemyMultilingualNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/French/fr-FR-RemyMultilingualNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "fr-FR",
@@ -533,7 +533,7 @@
       {
         "friendlyName": "Denise",
         "shortName": "fr-FR-DeniseNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/French/fr-FR-DeniseNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/French/fr-FR-DeniseNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "fr-FR",
@@ -545,7 +545,7 @@
       {
         "friendlyName": "Eloise",
         "shortName": "fr-FR-EloiseNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/French/fr-FR-EloiseNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/French/fr-FR-EloiseNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "fr-FR",
@@ -557,7 +557,7 @@
       {
         "friendlyName": "Henri",
         "shortName": "fr-FR-HenriNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/French/fr-FR-HenriNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/French/fr-FR-HenriNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "fr-FR",
@@ -569,7 +569,7 @@
       {
         "friendlyName": "Ariane",
         "shortName": "fr-CH-ArianeNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/French/fr-CH-ArianeNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/French/fr-CH-ArianeNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "fr-CH",
@@ -581,7 +581,7 @@
       {
         "friendlyName": "Fabrice",
         "shortName": "fr-CH-FabriceNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/French/fr-CH-FabriceNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/French/fr-CH-FabriceNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "fr-CH",
@@ -600,7 +600,7 @@
       {
         "friendlyName": "Marek",
         "shortName": "pl-PL-MarekNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Polish/pl-PL-MarekNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Polish/pl-PL-MarekNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "pl-PL",
@@ -612,7 +612,7 @@
       {
         "friendlyName": "Zofia",
         "shortName": "pl-PL-ZofiaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Polish/pl-PL-ZofiaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Polish/pl-PL-ZofiaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "pl-PL",
@@ -631,7 +631,7 @@
       {
         "friendlyName": "Niwat",
         "shortName": "th-TH-NiwatNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Thai/th-TH-NiwatNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Thai/th-TH-NiwatNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "th-TH",
@@ -643,7 +643,7 @@
       {
         "friendlyName": "Premwadee",
         "shortName": "th-TH-PremwadeeNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Thai/th-TH-PremwadeeNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Thai/th-TH-PremwadeeNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "th-TH",
@@ -662,7 +662,7 @@
       {
         "friendlyName": "Anu",
         "shortName": "et-EE-AnuNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Estonian/et-EE-AnuNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Estonian/et-EE-AnuNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "et-EE",
@@ -674,7 +674,7 @@
       {
         "friendlyName": "Kert",
         "shortName": "et-EE-KertNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Estonian/et-EE-KertNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Estonian/et-EE-KertNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "et-EE",
@@ -693,7 +693,7 @@
       {
         "friendlyName": "Mattias",
         "shortName": "sv-SE-MattiasNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Swedish/sv-SE-MattiasNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Swedish/sv-SE-MattiasNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "sv-SE",
@@ -705,7 +705,7 @@
       {
         "friendlyName": "Sofie",
         "shortName": "sv-SE-SofieNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Swedish/sv-SE-SofieNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Swedish/sv-SE-SofieNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "sv-SE",
@@ -724,7 +724,7 @@
       {
         "friendlyName": "Alina",
         "shortName": "ro-RO-AlinaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Romanian/ro-RO-AlinaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Romanian/ro-RO-AlinaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "ro-RO",
@@ -736,7 +736,7 @@
       {
         "friendlyName": "Emil",
         "shortName": "ro-RO-EmilNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Romanian/ro-RO-EmilNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Romanian/ro-RO-EmilNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "ro-RO",
@@ -755,7 +755,7 @@
       {
         "friendlyName": "Harri",
         "shortName": "fi-FI-HarriNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Finnish/fi-FI-HarriNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Finnish/fi-FI-HarriNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "fi-FI",
@@ -767,7 +767,7 @@
       {
         "friendlyName": "Noora",
         "shortName": "fi-FI-NooraNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Finnish/fi-FI-NooraNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Finnish/fi-FI-NooraNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "fi-FI",
@@ -786,7 +786,7 @@
       {
         "friendlyName": "Natasha",
         "shortName": "en-AU-NatashaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-AU-NatashaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-AU-NatashaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "en-AU",
@@ -798,7 +798,7 @@
       {
         "friendlyName": "William",
         "shortName": "en-AU-WilliamNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-AU-WilliamNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-AU-WilliamNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "en-AU",
@@ -810,7 +810,7 @@
       {
         "friendlyName": "Clara",
         "shortName": "en-CA-ClaraNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-CA-ClaraNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-CA-ClaraNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "en-CA",
@@ -822,7 +822,7 @@
       {
         "friendlyName": "Liam",
         "shortName": "en-CA-LiamNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-CA-LiamNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-CA-LiamNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "en-CA",
@@ -834,7 +834,7 @@
       {
         "friendlyName": "Yan",
         "shortName": "en-HK-YanNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-HK-YanNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-HK-YanNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "en-HK",
@@ -846,7 +846,7 @@
       {
         "friendlyName": "Sam",
         "shortName": "en-HK-SamNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-HK-SamNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-HK-SamNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "en-HK",
@@ -858,7 +858,7 @@
       {
         "friendlyName": "Neerja",
         "shortName": "en-IN-NeerjaExpressiveNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-IN-NeerjaExpressiveNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-IN-NeerjaExpressiveNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "en-IN",
@@ -870,7 +870,7 @@
       {
         "friendlyName": "Neerja",
         "shortName": "en-IN-NeerjaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-IN-NeerjaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-IN-NeerjaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "en-IN",
@@ -882,7 +882,7 @@
       {
         "friendlyName": "Prabhat",
         "shortName": "en-IN-PrabhatNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-IN-PrabhatNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-IN-PrabhatNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "en-IN",
@@ -894,7 +894,7 @@
       {
         "friendlyName": "Connor",
         "shortName": "en-IE-ConnorNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-IE-ConnorNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-IE-ConnorNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "en-IE",
@@ -906,7 +906,7 @@
       {
         "friendlyName": "Emily",
         "shortName": "en-IE-EmilyNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-IE-EmilyNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-IE-EmilyNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "en-IE",
@@ -918,7 +918,7 @@
       {
         "friendlyName": "Asilia",
         "shortName": "en-KE-AsiliaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-KE-AsiliaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-KE-AsiliaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "en-KE",
@@ -930,7 +930,7 @@
       {
         "friendlyName": "Chilemba",
         "shortName": "en-KE-ChilembaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-KE-ChilembaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-KE-ChilembaNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "en-KE",
@@ -942,7 +942,7 @@
       {
         "friendlyName": "Mitchell",
         "shortName": "en-NZ-MitchellNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-NZ-MitchellNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-NZ-MitchellNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "en-NZ",
@@ -954,7 +954,7 @@
       {
         "friendlyName": "Molly",
         "shortName": "en-NZ-MollyNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-NZ-MollyNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-NZ-MollyNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "en-NZ",
@@ -966,7 +966,7 @@
       {
         "friendlyName": "Abeo",
         "shortName": "en-NG-AbeoNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-NG-AbeoNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-NG-AbeoNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "en-NG",
@@ -978,7 +978,7 @@
       {
         "friendlyName": "Ezinne",
         "shortName": "en-NG-EzinneNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-NG-EzinneNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-NG-EzinneNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "en-NG",
@@ -990,7 +990,7 @@
       {
         "friendlyName": "James",
         "shortName": "en-PH-JamesNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-PH-JamesNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-PH-JamesNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "en-PH",
@@ -1002,7 +1002,7 @@
       {
         "friendlyName": "Rosa",
         "shortName": "en-PH-RosaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-PH-RosaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-PH-RosaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "en-PH",
@@ -1014,7 +1014,7 @@
       {
         "friendlyName": "Luna",
         "shortName": "en-SG-LunaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-SG-LunaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-SG-LunaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "en-SG",
@@ -1026,7 +1026,7 @@
       {
         "friendlyName": "Wayne",
         "shortName": "en-SG-WayneNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-SG-WayneNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-SG-WayneNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "en-SG",
@@ -1038,7 +1038,7 @@
       {
         "friendlyName": "AvaMultilingual",
         "shortName": "en-US-AvaMultilingualNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-US-AvaMultilingualNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-US-AvaMultilingualNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "en-US",
@@ -1050,7 +1050,7 @@
       {
         "friendlyName": "AndrewMultilingual",
         "shortName": "en-US-AndrewMultilingualNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-US-AndrewMultilingualNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-US-AndrewMultilingualNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "en-US",
@@ -1062,7 +1062,7 @@
       {
         "friendlyName": "EmmaMultilingual",
         "shortName": "en-US-EmmaMultilingualNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-US-EmmaMultilingualNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-US-EmmaMultilingualNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "en-US",
@@ -1074,7 +1074,7 @@
       {
         "friendlyName": "BrianMultilingual",
         "shortName": "en-US-BrianMultilingualNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-US-BrianMultilingualNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-US-BrianMultilingualNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "en-US",
@@ -1086,7 +1086,7 @@
       {
         "friendlyName": "Ava",
         "shortName": "en-US-AvaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-US-AvaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-US-AvaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "en-US",
@@ -1098,7 +1098,7 @@
       {
         "friendlyName": "Andrew",
         "shortName": "en-US-AndrewNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-US-AndrewNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-US-AndrewNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "en-US",
@@ -1110,7 +1110,7 @@
       {
         "friendlyName": "Emma",
         "shortName": "en-US-EmmaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-US-EmmaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-US-EmmaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "en-US",
@@ -1122,7 +1122,7 @@
       {
         "friendlyName": "Brian",
         "shortName": "en-US-BrianNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-US-BrianNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-US-BrianNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "en-US",
@@ -1134,7 +1134,7 @@
       {
         "friendlyName": "Leah",
         "shortName": "en-ZA-LeahNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-ZA-LeahNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-ZA-LeahNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "en-ZA",
@@ -1146,7 +1146,7 @@
       {
         "friendlyName": "Luke",
         "shortName": "en-ZA-LukeNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-ZA-LukeNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-ZA-LukeNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "en-ZA",
@@ -1158,7 +1158,7 @@
       {
         "friendlyName": "Elimu",
         "shortName": "en-TZ-ElimuNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-TZ-ElimuNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-TZ-ElimuNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "en-TZ",
@@ -1170,7 +1170,7 @@
       {
         "friendlyName": "Imani",
         "shortName": "en-TZ-ImaniNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-TZ-ImaniNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-TZ-ImaniNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "en-TZ",
@@ -1182,7 +1182,7 @@
       {
         "friendlyName": "Libby",
         "shortName": "en-GB-LibbyNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-GB-LibbyNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-GB-LibbyNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "en-GB",
@@ -1194,7 +1194,7 @@
       {
         "friendlyName": "Maisie",
         "shortName": "en-GB-MaisieNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-GB-MaisieNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-GB-MaisieNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "en-GB",
@@ -1206,7 +1206,7 @@
       {
         "friendlyName": "Ryan",
         "shortName": "en-GB-RyanNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-GB-RyanNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-GB-RyanNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "en-GB",
@@ -1218,7 +1218,7 @@
       {
         "friendlyName": "Sonia",
         "shortName": "en-GB-SoniaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-GB-SoniaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-GB-SoniaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "en-GB",
@@ -1230,7 +1230,7 @@
       {
         "friendlyName": "Thomas",
         "shortName": "en-GB-ThomasNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-GB-ThomasNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-GB-ThomasNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "en-GB",
@@ -1242,7 +1242,7 @@
       {
         "friendlyName": "Ana",
         "shortName": "en-US-AnaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-US-AnaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-US-AnaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "en-US",
@@ -1254,7 +1254,7 @@
       {
         "friendlyName": "Aria",
         "shortName": "en-US-AriaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-US-AriaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-US-AriaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "en-US",
@@ -1266,7 +1266,7 @@
       {
         "friendlyName": "Christopher",
         "shortName": "en-US-ChristopherNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-US-ChristopherNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-US-ChristopherNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "en-US",
@@ -1278,7 +1278,7 @@
       {
         "friendlyName": "Eric",
         "shortName": "en-US-EricNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-US-EricNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-US-EricNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "en-US",
@@ -1290,7 +1290,7 @@
       {
         "friendlyName": "Guy",
         "shortName": "en-US-GuyNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-US-GuyNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-US-GuyNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "en-US",
@@ -1302,7 +1302,7 @@
       {
         "friendlyName": "Jenny",
         "shortName": "en-US-JennyNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-US-JennyNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-US-JennyNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "en-US",
@@ -1314,7 +1314,7 @@
       {
         "friendlyName": "Michelle",
         "shortName": "en-US-MichelleNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-US-MichelleNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-US-MichelleNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "en-US",
@@ -1326,7 +1326,7 @@
       {
         "friendlyName": "Roger",
         "shortName": "en-US-RogerNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-US-RogerNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-US-RogerNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "en-US",
@@ -1338,7 +1338,7 @@
       {
         "friendlyName": "Steffan",
         "shortName": "en-US-SteffanNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/English/en-US-SteffanNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/English/en-US-SteffanNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "en-US",
@@ -1357,7 +1357,7 @@
       {
         "friendlyName": "Arnaud",
         "shortName": "nl-BE-ArnaudNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Dutch/nl-BE-ArnaudNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Dutch/nl-BE-ArnaudNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "nl-BE",
@@ -1369,7 +1369,7 @@
       {
         "friendlyName": "Dena",
         "shortName": "nl-BE-DenaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Dutch/nl-BE-DenaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Dutch/nl-BE-DenaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "nl-BE",
@@ -1381,7 +1381,7 @@
       {
         "friendlyName": "Colette",
         "shortName": "nl-NL-ColetteNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Dutch/nl-NL-ColetteNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Dutch/nl-NL-ColetteNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "nl-NL",
@@ -1393,7 +1393,7 @@
       {
         "friendlyName": "Fenna",
         "shortName": "nl-NL-FennaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Dutch/nl-NL-FennaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Dutch/nl-NL-FennaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "nl-NL",
@@ -1405,7 +1405,7 @@
       {
         "friendlyName": "Maarten",
         "shortName": "nl-NL-MaartenNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Dutch/nl-NL-MaartenNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Dutch/nl-NL-MaartenNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "nl-NL",
@@ -1424,7 +1424,7 @@
       {
         "friendlyName": "ThalitaMultilingual",
         "shortName": "pt-BR-ThalitaMultilingualNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Portuguese/pt-BR-ThalitaMultilingualNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Portuguese/pt-BR-ThalitaMultilingualNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "pt-BR",
@@ -1436,7 +1436,7 @@
       {
         "friendlyName": "Antonio",
         "shortName": "pt-BR-AntonioNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Portuguese/pt-BR-AntonioNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Portuguese/pt-BR-AntonioNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "pt-BR",
@@ -1448,7 +1448,7 @@
       {
         "friendlyName": "Francisca",
         "shortName": "pt-BR-FranciscaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Portuguese/pt-BR-FranciscaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Portuguese/pt-BR-FranciscaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "pt-BR",
@@ -1460,7 +1460,7 @@
       {
         "friendlyName": "Duarte",
         "shortName": "pt-PT-DuarteNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Portuguese/pt-PT-DuarteNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Portuguese/pt-PT-DuarteNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "pt-PT",
@@ -1472,7 +1472,7 @@
       {
         "friendlyName": "Raquel",
         "shortName": "pt-PT-RaquelNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Portuguese/pt-PT-RaquelNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Portuguese/pt-PT-RaquelNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "pt-PT",
@@ -1491,7 +1491,7 @@
       {
         "friendlyName": "Elena",
         "shortName": "es-AR-ElenaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-AR-ElenaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-AR-ElenaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "es-AR",
@@ -1503,7 +1503,7 @@
       {
         "friendlyName": "Tomas",
         "shortName": "es-AR-TomasNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-AR-TomasNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-AR-TomasNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "es-AR",
@@ -1515,7 +1515,7 @@
       {
         "friendlyName": "Marcelo",
         "shortName": "es-BO-MarceloNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-BO-MarceloNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-BO-MarceloNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "es-BO",
@@ -1527,7 +1527,7 @@
       {
         "friendlyName": "Sofia",
         "shortName": "es-BO-SofiaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-BO-SofiaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-BO-SofiaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "es-BO",
@@ -1539,7 +1539,7 @@
       {
         "friendlyName": "Catalina",
         "shortName": "es-CL-CatalinaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-CL-CatalinaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-CL-CatalinaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "es-CL",
@@ -1551,7 +1551,7 @@
       {
         "friendlyName": "Lorenzo",
         "shortName": "es-CL-LorenzoNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-CL-LorenzoNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-CL-LorenzoNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "es-CL",
@@ -1563,7 +1563,7 @@
       {
         "friendlyName": "Gonzalo",
         "shortName": "es-CO-GonzaloNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-CO-GonzaloNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-CO-GonzaloNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "es-CO",
@@ -1575,7 +1575,7 @@
       {
         "friendlyName": "Salome",
         "shortName": "es-CO-SalomeNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-CO-SalomeNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-CO-SalomeNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "es-CO",
@@ -1587,7 +1587,7 @@
       {
         "friendlyName": "Ximena",
         "shortName": "es-ES-XimenaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-ES-XimenaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-ES-XimenaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "es-ES",
@@ -1599,7 +1599,7 @@
       {
         "friendlyName": "Juan",
         "shortName": "es-CR-JuanNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-CR-JuanNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-CR-JuanNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "es-CR",
@@ -1611,7 +1611,7 @@
       {
         "friendlyName": "Maria",
         "shortName": "es-CR-MariaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-CR-MariaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-CR-MariaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "es-CR",
@@ -1623,7 +1623,7 @@
       {
         "friendlyName": "Belkys",
         "shortName": "es-CU-BelkysNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-CU-BelkysNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-CU-BelkysNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "es-CU",
@@ -1635,7 +1635,7 @@
       {
         "friendlyName": "Manuel",
         "shortName": "es-CU-ManuelNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-CU-ManuelNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-CU-ManuelNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "es-CU",
@@ -1647,7 +1647,7 @@
       {
         "friendlyName": "Emilio",
         "shortName": "es-DO-EmilioNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-DO-EmilioNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-DO-EmilioNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "es-DO",
@@ -1659,7 +1659,7 @@
       {
         "friendlyName": "Ramona",
         "shortName": "es-DO-RamonaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-DO-RamonaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-DO-RamonaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "es-DO",
@@ -1671,7 +1671,7 @@
       {
         "friendlyName": "Andrea",
         "shortName": "es-EC-AndreaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-EC-AndreaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-EC-AndreaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "es-EC",
@@ -1683,7 +1683,7 @@
       {
         "friendlyName": "Luis",
         "shortName": "es-EC-LuisNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-EC-LuisNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-EC-LuisNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "es-EC",
@@ -1695,7 +1695,7 @@
       {
         "friendlyName": "Lorena",
         "shortName": "es-SV-LorenaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-SV-LorenaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-SV-LorenaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "es-SV",
@@ -1707,7 +1707,7 @@
       {
         "friendlyName": "Rodrigo",
         "shortName": "es-SV-RodrigoNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-SV-RodrigoNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-SV-RodrigoNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "es-SV",
@@ -1719,7 +1719,7 @@
       {
         "friendlyName": "Javier",
         "shortName": "es-GQ-JavierNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-GQ-JavierNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-GQ-JavierNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "es-GQ",
@@ -1731,7 +1731,7 @@
       {
         "friendlyName": "Teresa",
         "shortName": "es-GQ-TeresaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-GQ-TeresaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-GQ-TeresaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "es-GQ",
@@ -1743,7 +1743,7 @@
       {
         "friendlyName": "Andres",
         "shortName": "es-GT-AndresNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-GT-AndresNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-GT-AndresNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "es-GT",
@@ -1755,7 +1755,7 @@
       {
         "friendlyName": "Marta",
         "shortName": "es-GT-MartaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-GT-MartaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-GT-MartaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "es-GT",
@@ -1767,7 +1767,7 @@
       {
         "friendlyName": "Carlos",
         "shortName": "es-HN-CarlosNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-HN-CarlosNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-HN-CarlosNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "es-HN",
@@ -1779,7 +1779,7 @@
       {
         "friendlyName": "Karla",
         "shortName": "es-HN-KarlaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-HN-KarlaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-HN-KarlaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "es-HN",
@@ -1791,7 +1791,7 @@
       {
         "friendlyName": "Dalia",
         "shortName": "es-MX-DaliaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-MX-DaliaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-MX-DaliaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "es-MX",
@@ -1803,7 +1803,7 @@
       {
         "friendlyName": "Jorge",
         "shortName": "es-MX-JorgeNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-MX-JorgeNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-MX-JorgeNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "es-MX",
@@ -1815,7 +1815,7 @@
       {
         "friendlyName": "Federico",
         "shortName": "es-NI-FedericoNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-NI-FedericoNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-NI-FedericoNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "es-NI",
@@ -1827,7 +1827,7 @@
       {
         "friendlyName": "Yolanda",
         "shortName": "es-NI-YolandaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-NI-YolandaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-NI-YolandaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "es-NI",
@@ -1839,7 +1839,7 @@
       {
         "friendlyName": "Margarita",
         "shortName": "es-PA-MargaritaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-PA-MargaritaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-PA-MargaritaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "es-PA",
@@ -1851,7 +1851,7 @@
       {
         "friendlyName": "Roberto",
         "shortName": "es-PA-RobertoNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-PA-RobertoNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-PA-RobertoNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "es-PA",
@@ -1863,7 +1863,7 @@
       {
         "friendlyName": "Mario",
         "shortName": "es-PY-MarioNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-PY-MarioNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-PY-MarioNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "es-PY",
@@ -1875,7 +1875,7 @@
       {
         "friendlyName": "Tania",
         "shortName": "es-PY-TaniaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-PY-TaniaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-PY-TaniaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "es-PY",
@@ -1887,7 +1887,7 @@
       {
         "friendlyName": "Alex",
         "shortName": "es-PE-AlexNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-PE-AlexNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-PE-AlexNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "es-PE",
@@ -1899,7 +1899,7 @@
       {
         "friendlyName": "Camila",
         "shortName": "es-PE-CamilaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-PE-CamilaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-PE-CamilaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "es-PE",
@@ -1911,7 +1911,7 @@
       {
         "friendlyName": "Karina",
         "shortName": "es-PR-KarinaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-PR-KarinaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-PR-KarinaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "es-PR",
@@ -1923,7 +1923,7 @@
       {
         "friendlyName": "Victor",
         "shortName": "es-PR-VictorNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-PR-VictorNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-PR-VictorNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "es-PR",
@@ -1935,7 +1935,7 @@
       {
         "friendlyName": "Alvaro",
         "shortName": "es-ES-AlvaroNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-ES-AlvaroNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-ES-AlvaroNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "es-ES",
@@ -1947,7 +1947,7 @@
       {
         "friendlyName": "Elvira",
         "shortName": "es-ES-ElviraNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-ES-ElviraNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-ES-ElviraNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "es-ES",
@@ -1959,7 +1959,7 @@
       {
         "friendlyName": "Alonso",
         "shortName": "es-US-AlonsoNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-US-AlonsoNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-US-AlonsoNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "es-US",
@@ -1971,7 +1971,7 @@
       {
         "friendlyName": "Paloma",
         "shortName": "es-US-PalomaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-US-PalomaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-US-PalomaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "es-US",
@@ -1983,7 +1983,7 @@
       {
         "friendlyName": "Mateo",
         "shortName": "es-UY-MateoNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-UY-MateoNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-UY-MateoNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "es-UY",
@@ -1995,7 +1995,7 @@
       {
         "friendlyName": "Valentina",
         "shortName": "es-UY-ValentinaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-UY-ValentinaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-UY-ValentinaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "es-UY",
@@ -2007,7 +2007,7 @@
       {
         "friendlyName": "Paola",
         "shortName": "es-VE-PaolaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-VE-PaolaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-VE-PaolaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "es-VE",
@@ -2019,7 +2019,7 @@
       {
         "friendlyName": "Sebastian",
         "shortName": "es-VE-SebastianNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Spanish/es-VE-SebastianNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Spanish/es-VE-SebastianNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "es-VE",
@@ -2038,7 +2038,7 @@
       {
         "friendlyName": "Amina",
         "shortName": "ar-DZ-AminaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-DZ-AminaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-DZ-AminaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "ar-DZ",
@@ -2050,7 +2050,7 @@
       {
         "friendlyName": "Ismael",
         "shortName": "ar-DZ-IsmaelNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-DZ-IsmaelNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-DZ-IsmaelNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "ar-DZ",
@@ -2062,7 +2062,7 @@
       {
         "friendlyName": "Ali",
         "shortName": "ar-BH-AliNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-BH-AliNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-BH-AliNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "ar-BH",
@@ -2074,7 +2074,7 @@
       {
         "friendlyName": "Laila",
         "shortName": "ar-BH-LailaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-BH-LailaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-BH-LailaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "ar-BH",
@@ -2086,7 +2086,7 @@
       {
         "friendlyName": "Salma",
         "shortName": "ar-EG-SalmaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-EG-SalmaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-EG-SalmaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "ar-EG",
@@ -2098,7 +2098,7 @@
       {
         "friendlyName": "Shakir",
         "shortName": "ar-EG-ShakirNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-EG-ShakirNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-EG-ShakirNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "ar-EG",
@@ -2110,7 +2110,7 @@
       {
         "friendlyName": "Bassel",
         "shortName": "ar-IQ-BasselNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-IQ-BasselNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-IQ-BasselNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "ar-IQ",
@@ -2122,7 +2122,7 @@
       {
         "friendlyName": "Rana",
         "shortName": "ar-IQ-RanaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-IQ-RanaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-IQ-RanaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "ar-IQ",
@@ -2134,7 +2134,7 @@
       {
         "friendlyName": "Sana",
         "shortName": "ar-JO-SanaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-JO-SanaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-JO-SanaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "ar-JO",
@@ -2146,7 +2146,7 @@
       {
         "friendlyName": "Taim",
         "shortName": "ar-JO-TaimNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-JO-TaimNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-JO-TaimNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "ar-JO",
@@ -2158,7 +2158,7 @@
       {
         "friendlyName": "Fahed",
         "shortName": "ar-KW-FahedNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-KW-FahedNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-KW-FahedNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "ar-KW",
@@ -2170,7 +2170,7 @@
       {
         "friendlyName": "Noura",
         "shortName": "ar-KW-NouraNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-KW-NouraNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-KW-NouraNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "ar-KW",
@@ -2182,7 +2182,7 @@
       {
         "friendlyName": "Layla",
         "shortName": "ar-LB-LaylaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-LB-LaylaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-LB-LaylaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "ar-LB",
@@ -2194,7 +2194,7 @@
       {
         "friendlyName": "Rami",
         "shortName": "ar-LB-RamiNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-LB-RamiNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-LB-RamiNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "ar-LB",
@@ -2206,7 +2206,7 @@
       {
         "friendlyName": "Iman",
         "shortName": "ar-LY-ImanNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-LY-ImanNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-LY-ImanNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "ar-LY",
@@ -2218,7 +2218,7 @@
       {
         "friendlyName": "Omar",
         "shortName": "ar-LY-OmarNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-LY-OmarNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-LY-OmarNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "ar-LY",
@@ -2230,7 +2230,7 @@
       {
         "friendlyName": "Jamal",
         "shortName": "ar-MA-JamalNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-MA-JamalNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-MA-JamalNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "ar-MA",
@@ -2242,7 +2242,7 @@
       {
         "friendlyName": "Mouna",
         "shortName": "ar-MA-MounaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-MA-MounaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-MA-MounaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "ar-MA",
@@ -2254,7 +2254,7 @@
       {
         "friendlyName": "Abdullah",
         "shortName": "ar-OM-AbdullahNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-OM-AbdullahNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-OM-AbdullahNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "ar-OM",
@@ -2266,7 +2266,7 @@
       {
         "friendlyName": "Aysha",
         "shortName": "ar-OM-AyshaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-OM-AyshaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-OM-AyshaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "ar-OM",
@@ -2278,7 +2278,7 @@
       {
         "friendlyName": "Amal",
         "shortName": "ar-QA-AmalNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-QA-AmalNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-QA-AmalNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "ar-QA",
@@ -2290,7 +2290,7 @@
       {
         "friendlyName": "Moaz",
         "shortName": "ar-QA-MoazNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-QA-MoazNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-QA-MoazNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "ar-QA",
@@ -2302,7 +2302,7 @@
       {
         "friendlyName": "Hamed",
         "shortName": "ar-SA-HamedNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-SA-HamedNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-SA-HamedNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "ar-SA",
@@ -2314,7 +2314,7 @@
       {
         "friendlyName": "Zariyah",
         "shortName": "ar-SA-ZariyahNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-SA-ZariyahNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-SA-ZariyahNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "ar-SA",
@@ -2326,7 +2326,7 @@
       {
         "friendlyName": "Amany",
         "shortName": "ar-SY-AmanyNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-SY-AmanyNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-SY-AmanyNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "ar-SY",
@@ -2338,7 +2338,7 @@
       {
         "friendlyName": "Laith",
         "shortName": "ar-SY-LaithNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-SY-LaithNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-SY-LaithNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "ar-SY",
@@ -2350,7 +2350,7 @@
       {
         "friendlyName": "Hedi",
         "shortName": "ar-TN-HediNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-TN-HediNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-TN-HediNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "ar-TN",
@@ -2362,7 +2362,7 @@
       {
         "friendlyName": "Reem",
         "shortName": "ar-TN-ReemNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-TN-ReemNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-TN-ReemNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "ar-TN",
@@ -2374,7 +2374,7 @@
       {
         "friendlyName": "Fatima",
         "shortName": "ar-AE-FatimaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-AE-FatimaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-AE-FatimaNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "ar-AE",
@@ -2386,7 +2386,7 @@
       {
         "friendlyName": "Hamdan",
         "shortName": "ar-AE-HamdanNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-AE-HamdanNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-AE-HamdanNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "ar-AE",
@@ -2398,7 +2398,7 @@
       {
         "friendlyName": "Maryam",
         "shortName": "ar-YE-MaryamNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-YE-MaryamNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-YE-MaryamNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "ar-YE",
@@ -2410,7 +2410,7 @@
       {
         "friendlyName": "Saleh",
         "shortName": "ar-YE-SalehNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Arabic/ar-YE-SalehNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Arabic/ar-YE-SalehNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "ar-YE",
@@ -2429,7 +2429,7 @@
       {
         "friendlyName": "HyunsuMultilingual",
         "shortName": "ko-KR-HyunsuMultilingualNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Korean/ko-KR-HyunsuMultilingualNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Korean/ko-KR-HyunsuMultilingualNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "ko-KR",
@@ -2441,7 +2441,7 @@
       {
         "friendlyName": "InJoon",
         "shortName": "ko-KR-InJoonNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Korean/ko-KR-InJoonNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Korean/ko-KR-InJoonNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "ko-KR",
@@ -2453,7 +2453,7 @@
       {
         "friendlyName": "SunHi",
         "shortName": "ko-KR-SunHiNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Korean/ko-KR-SunHiNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Korean/ko-KR-SunHiNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "ko-KR",
@@ -2472,7 +2472,7 @@
       {
         "friendlyName": "小桐",
         "shortName": "wuu-CN-XiaotongNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/wuu-CN-XiaotongNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/wuu-CN-XiaotongNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "wuu-CN",
@@ -2484,7 +2484,7 @@
       {
         "friendlyName": "云哲",
         "shortName": "wuu-CN-YunzheNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/wuu-CN-YunzheNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/wuu-CN-YunzheNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "wuu-CN",
@@ -2496,7 +2496,7 @@
       {
         "friendlyName": "小辰",
         "shortName": "zh-CN-XiaochenMultilingualNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaochenMultilingualNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaochenMultilingualNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "zh-CN",
@@ -2508,7 +2508,7 @@
       {
         "friendlyName": "小辰",
         "shortName": "zh-CN-XiaochenNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaochenNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaochenNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "zh-CN",
@@ -2520,7 +2520,7 @@
       {
         "friendlyName": "小涵",
         "shortName": "zh-CN-XiaohanNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaohanNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaohanNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "zh-CN",
@@ -2532,7 +2532,7 @@
       {
         "friendlyName": "小萌",
         "shortName": "zh-CN-XiaomengNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaomengNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaomengNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "zh-CN",
@@ -2544,7 +2544,7 @@
       {
         "friendlyName": "小莫",
         "shortName": "zh-CN-XiaomoNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaomoNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaomoNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "zh-CN",
@@ -2556,7 +2556,7 @@
       {
         "friendlyName": "小秋",
         "shortName": "zh-CN-XiaoqiuNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaoqiuNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaoqiuNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "zh-CN",
@@ -2568,7 +2568,7 @@
       {
         "friendlyName": "小柔",
         "shortName": "zh-CN-XiaorouNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaorouNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaorouNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "zh-CN",
@@ -2580,7 +2580,7 @@
       {
         "friendlyName": "小锐",
         "shortName": "zh-CN-XiaoruiNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaoruiNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaoruiNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "zh-CN",
@@ -2592,7 +2592,7 @@
       {
         "friendlyName": "小双",
         "shortName": "zh-CN-XiaoshuangNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaoshuangNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaoshuangNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "zh-CN",
@@ -2604,7 +2604,7 @@
       {
         "friendlyName": "晓晓方言",
         "shortName": "zh-CN-XiaoxiaoDialectsNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaoxiaoDialectsNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaoxiaoDialectsNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "zh-CN",
@@ -2616,7 +2616,7 @@
       {
         "friendlyName": "晓晓多语言",
         "shortName": "zh-CN-XiaoxiaoMultilingualNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaoxiaoMultilingualNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaoxiaoMultilingualNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "zh-CN",
@@ -2628,7 +2628,7 @@
       {
         "friendlyName": "小燕",
         "shortName": "zh-CN-XiaoyanNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaoyanNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaoyanNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "zh-CN",
@@ -2640,7 +2640,7 @@
       {
         "friendlyName": "小悠",
         "shortName": "zh-CN-XiaoyouNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaoyouNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaoyouNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "zh-CN",
@@ -2652,7 +2652,7 @@
       {
         "friendlyName": "小语",
         "shortName": "zh-CN-XiaoyuMultilingualNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaoyuMultilingualNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaoyuMultilingualNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "zh-CN",
@@ -2664,7 +2664,7 @@
       {
         "friendlyName": "小珍",
         "shortName": "zh-CN-XiaozhenNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaozhenNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaozhenNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "zh-CN",
@@ -2676,7 +2676,7 @@
       {
         "friendlyName": "云锋",
         "shortName": "zh-CN-YunfengNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-YunfengNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-YunfengNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "zh-CN",
@@ -2688,7 +2688,7 @@
       {
         "friendlyName": "云浩",
         "shortName": "zh-CN-YunhaoNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-YunhaoNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-YunhaoNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "zh-CN",
@@ -2700,7 +2700,7 @@
       {
         "friendlyName": "云杰",
         "shortName": "zh-CN-YunjieNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-YunjieNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-YunjieNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "zh-CN",
@@ -2712,7 +2712,7 @@
       {
         "friendlyName": "云夜",
         "shortName": "zh-CN-YunyeNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-YunyeNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-YunyeNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "zh-CN",
@@ -2724,7 +2724,7 @@
       {
         "friendlyName": "云一",
         "shortName": "zh-CN-YunyiMultilingualNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-YunyiMultilingualNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-YunyiMultilingualNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "zh-CN",
@@ -2736,7 +2736,7 @@
       {
         "friendlyName": "云泽",
         "shortName": "zh-CN-YunzeNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-YunzeNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-YunzeNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "zh-CN",
@@ -2748,7 +2748,7 @@
       {
         "friendlyName": "云登（河南）",
         "shortName": "zh-CN-henan-YundengNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-henan-YundengNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-henan-YundengNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "zh-CN-henan",
@@ -2760,7 +2760,7 @@
       {
         "friendlyName": "云翔（山东）",
         "shortName": "zh-CN-shandong-YunxiangNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-shandong-YunxiangNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-shandong-YunxiangNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "zh-CN-shandong",
@@ -2772,7 +2772,7 @@
       {
         "friendlyName": "云溪（四川）",
         "shortName": "zh-CN-sichuan-YunxiNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-sichuan-YunxiNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-sichuan-YunxiNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "zh-CN-sichuan",
@@ -2784,7 +2784,7 @@
       {
         "friendlyName": "晓晓",
         "shortName": "zh-CN-XiaoxiaoNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaoxiaoNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaoxiaoNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "zh-CN",
@@ -2796,7 +2796,7 @@
       {
         "friendlyName": "小艺",
         "shortName": "zh-CN-XiaoyiNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaoyiNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-XiaoyiNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "zh-CN",
@@ -2808,7 +2808,7 @@
       {
         "friendlyName": "云键",
         "shortName": "zh-CN-YunjianNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-YunjianNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-YunjianNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "zh-CN",
@@ -2820,7 +2820,7 @@
       {
         "friendlyName": "云溪",
         "shortName": "zh-CN-YunxiNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-YunxiNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-YunxiNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "zh-CN",
@@ -2832,7 +2832,7 @@
       {
         "friendlyName": "云夏",
         "shortName": "zh-CN-YunxiaNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-YunxiaNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-YunxiaNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "zh-CN",
@@ -2844,7 +2844,7 @@
       {
         "friendlyName": "云阳",
         "shortName": "zh-CN-YunyangNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-YunyangNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-YunyangNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "zh-CN",
@@ -2856,7 +2856,7 @@
       {
         "friendlyName": "小北（辽宁）",
         "shortName": "zh-CN-liaoning-XiaobeiNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-liaoning-XiaobeiNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-liaoning-XiaobeiNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "zh-CN-liaoning",
@@ -2868,7 +2868,7 @@
       {
         "friendlyName": "小妮（陕西）",
         "shortName": "zh-CN-shaanxi-XiaoniNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-shaanxi-XiaoniNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-CN-shaanxi-XiaoniNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "zh-CN-shaanxi",
@@ -2887,7 +2887,7 @@
       {
         "friendlyName": "小敏",
         "shortName": "yue-CN-XiaoMinNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/yue-CN-XiaoMinNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/yue-CN-XiaoMinNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "yue-CN",
@@ -2899,7 +2899,7 @@
       {
         "friendlyName": "云松",
         "shortName": "yue-CN-YunSongNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/yue-CN-YunSongNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/yue-CN-YunSongNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "yue-CN",
@@ -2918,7 +2918,7 @@
       {
         "friendlyName": "晓佳",
         "shortName": "zh-HK-HiuGaaiNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-HK-HiuGaaiNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-HK-HiuGaaiNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "zh-HK",
@@ -2930,7 +2930,7 @@
       {
         "friendlyName": "晓曼",
         "shortName": "zh-HK-HiuMaanNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-HK-HiuMaanNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-HK-HiuMaanNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "zh-HK",
@@ -2942,7 +2942,7 @@
       {
         "friendlyName": "云龙",
         "shortName": "zh-HK-WanLungNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-HK-WanLungNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-HK-WanLungNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "zh-HK",
@@ -2954,7 +2954,7 @@
       {
         "friendlyName": "小辰",
         "shortName": "zh-TW-HsiaoChenNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-TW-HsiaoChenNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-TW-HsiaoChenNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "zh-TW",
@@ -2966,7 +2966,7 @@
       {
         "friendlyName": "小语",
         "shortName": "zh-TW-HsiaoYuNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-TW-HsiaoYuNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-TW-HsiaoYuNeural.mp3",
         "parameters": {
           "Gender": "Female",
           "Locale": "zh-TW",
@@ -2978,7 +2978,7 @@
       {
         "friendlyName": "云哲",
         "shortName": "zh-TW-YunJheNeural",
-        "audioUrl": "https://lilee996.github.io/tts-audio/https://lilee996.github.io/tts-audio/mp3/Chinese/zh-TW-YunJheNeural.mp3",
+        "audioUrl": "https://lilee996.github.io/tts-audio/mp3/Chinese/zh-TW-YunJheNeural.mp3",
         "parameters": {
           "Gender": "Male",
           "Locale": "zh-TW",
