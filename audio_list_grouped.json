@@ -1,0 +1,4734 @@
+[
+  {
+    "language": "中文",
+    "languageCode": "zh",
+    "count": 42,
+    "list": [
+      {
+        "friendlyName": "小桐",
+        "shortName": "wuu-CN-XiaotongNeural",
+        "audioUrl": "mp3/Chinese/wuu-CN-XiaotongNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "wuu-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "云哲",
+        "shortName": "wuu-CN-YunzheNeural",
+        "audioUrl": "mp3/Chinese/wuu-CN-YunzheNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "wuu-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "小敏",
+        "shortName": "yue-CN-XiaoMinNeural",
+        "audioUrl": "mp3/Chinese/yue-CN-XiaoMinNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "yue-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "云松",
+        "shortName": "yue-CN-YunSongNeural",
+        "audioUrl": "mp3/Chinese/yue-CN-YunSongNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "yue-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "小辰",
+        "shortName": "zh-CN-XiaochenMultilingualNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-XiaochenMultilingualNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "zh-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "小辰",
+        "shortName": "zh-CN-XiaochenNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-XiaochenNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "zh-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "小涵",
+        "shortName": "zh-CN-XiaohanNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-XiaohanNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "zh-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "小萌",
+        "shortName": "zh-CN-XiaomengNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-XiaomengNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "zh-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "小莫",
+        "shortName": "zh-CN-XiaomoNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-XiaomoNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "zh-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "小秋",
+        "shortName": "zh-CN-XiaoqiuNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-XiaoqiuNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "zh-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "小柔",
+        "shortName": "zh-CN-XiaorouNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-XiaorouNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "zh-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "小锐",
+        "shortName": "zh-CN-XiaoruiNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-XiaoruiNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "zh-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "小双",
+        "shortName": "zh-CN-XiaoshuangNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-XiaoshuangNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "zh-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "晓晓方言",
+        "shortName": "zh-CN-XiaoxiaoDialectsNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-XiaoxiaoDialectsNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "zh-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "晓晓多语言",
+        "shortName": "zh-CN-XiaoxiaoMultilingualNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-XiaoxiaoMultilingualNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "zh-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "小燕",
+        "shortName": "zh-CN-XiaoyanNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-XiaoyanNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "zh-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "小悠",
+        "shortName": "zh-CN-XiaoyouNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-XiaoyouNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "zh-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "小语",
+        "shortName": "zh-CN-XiaoyuMultilingualNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-XiaoyuMultilingualNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "zh-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "小珍",
+        "shortName": "zh-CN-XiaozhenNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-XiaozhenNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "zh-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "云锋",
+        "shortName": "zh-CN-YunfengNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-YunfengNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "zh-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "云浩",
+        "shortName": "zh-CN-YunhaoNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-YunhaoNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "zh-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "云杰",
+        "shortName": "zh-CN-YunjieNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-YunjieNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "zh-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "云夜",
+        "shortName": "zh-CN-YunyeNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-YunyeNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "zh-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "云一",
+        "shortName": "zh-CN-YunyiMultilingualNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-YunyiMultilingualNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "zh-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "云泽",
+        "shortName": "zh-CN-YunzeNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-YunzeNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "zh-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "云登（河南）",
+        "shortName": "zh-CN-henan-YundengNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-henan-YundengNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "zh-CN-henan",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "云翔（山东）",
+        "shortName": "zh-CN-shandong-YunxiangNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-shandong-YunxiangNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "zh-CN-shandong",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "云溪（四川）",
+        "shortName": "zh-CN-sichuan-YunxiNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-sichuan-YunxiNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "zh-CN-sichuan",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "晓晓",
+        "shortName": "zh-CN-XiaoxiaoNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-XiaoxiaoNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "zh-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "小艺",
+        "shortName": "zh-CN-XiaoyiNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-XiaoyiNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "zh-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "云键",
+        "shortName": "zh-CN-YunjianNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-YunjianNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "zh-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "云溪",
+        "shortName": "zh-CN-YunxiNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-YunxiNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "zh-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "云夏",
+        "shortName": "zh-CN-YunxiaNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-YunxiaNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "zh-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "云阳",
+        "shortName": "zh-CN-YunyangNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-YunyangNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "zh-CN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "小北（辽宁）",
+        "shortName": "zh-CN-liaoning-XiaobeiNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-liaoning-XiaobeiNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "zh-CN-liaoning",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "小妮（陕西）",
+        "shortName": "zh-CN-shaanxi-XiaoniNeural",
+        "audioUrl": "mp3/Chinese/zh-CN-shaanxi-XiaoniNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "zh-CN-shaanxi",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "晓佳",
+        "shortName": "zh-HK-HiuGaaiNeural",
+        "audioUrl": "mp3/Chinese/zh-HK-HiuGaaiNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "zh-HK",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "晓曼",
+        "shortName": "zh-HK-HiuMaanNeural",
+        "audioUrl": "mp3/Chinese/zh-HK-HiuMaanNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "zh-HK",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "云龙",
+        "shortName": "zh-HK-WanLungNeural",
+        "audioUrl": "mp3/Chinese/zh-HK-WanLungNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "zh-HK",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "小辰",
+        "shortName": "zh-TW-HsiaoChenNeural",
+        "audioUrl": "mp3/Chinese/zh-TW-HsiaoChenNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "zh-TW",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "小语",
+        "shortName": "zh-TW-HsiaoYuNeural",
+        "audioUrl": "mp3/Chinese/zh-TW-HsiaoYuNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "zh-TW",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      },
+      {
+        "friendlyName": "云哲",
+        "shortName": "zh-TW-YunJheNeural",
+        "audioUrl": "mp3/Chinese/zh-TW-YunJheNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "zh-TW",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "中文"
+      }
+    ]
+  },
+  {
+    "language": "iu-Cans-CA",
+    "languageCode": "iu",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Microsoft Siqiniq Online (Natural) - Inuktitut (Syllabics, Canada)",
+        "shortName": "iu-Cans-CA-SiqiniqNeural",
+        "audioUrl": "mp3/Inuktitut/iu-Cans-CA-SiqiniqNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "iu-Cans-CA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "iu-Cans-CA"
+      },
+      {
+        "friendlyName": "Microsoft Taqqiq Online (Natural) - Inuktitut (Syllabics, Canada)",
+        "shortName": "iu-Cans-CA-TaqqiqNeural",
+        "audioUrl": "mp3/Inuktitut/iu-Cans-CA-TaqqiqNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "iu-Cans-CA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "iu-Cans-CA"
+      }
+    ]
+  },
+  {
+    "language": "iu-Latn-CA",
+    "languageCode": "iu",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Microsoft Siqiniq Online (Natural) - Inuktitut (Latin, Canada)",
+        "shortName": "iu-Latn-CA-SiqiniqNeural",
+        "audioUrl": "mp3/Inuktitut/iu-Latn-CA-SiqiniqNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "iu-Latn-CA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "iu-Latn-CA"
+      },
+      {
+        "friendlyName": "Microsoft Taqqiq Online (Natural) - Inuktitut (Latin, Canada)",
+        "shortName": "iu-Latn-CA-TaqqiqNeural",
+        "audioUrl": "mp3/Inuktitut/iu-Latn-CA-TaqqiqNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "iu-Latn-CA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "iu-Latn-CA"
+      }
+    ]
+  },
+  {
+    "language": "丹麦语",
+    "languageCode": "da",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Christel",
+        "shortName": "da-DK-ChristelNeural",
+        "audioUrl": "mp3/Danish/da-DK-ChristelNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "da-DK",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "丹麦语"
+      },
+      {
+        "friendlyName": "Jeppe",
+        "shortName": "da-DK-JeppeNeural",
+        "audioUrl": "mp3/Danish/da-DK-JeppeNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "da-DK",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "丹麦语"
+      }
+    ]
+  },
+  {
+    "language": "乌克兰语",
+    "languageCode": "uk",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Ostap",
+        "shortName": "uk-UA-OstapNeural",
+        "audioUrl": "mp3/Ukrainian/uk-UA-OstapNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "uk-UA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "乌克兰语"
+      },
+      {
+        "friendlyName": "Polina",
+        "shortName": "uk-UA-PolinaNeural",
+        "audioUrl": "mp3/Ukrainian/uk-UA-PolinaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "uk-UA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "乌克兰语"
+      }
+    ]
+  },
+  {
+    "language": "乌兹别克语",
+    "languageCode": "uz",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Madina",
+        "shortName": "uz-UZ-MadinaNeural",
+        "audioUrl": "mp3/Uzbek/uz-UZ-MadinaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "uz-UZ",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "乌兹别克语"
+      },
+      {
+        "friendlyName": "Sardor",
+        "shortName": "uz-UZ-SardorNeural",
+        "audioUrl": "mp3/Uzbek/uz-UZ-SardorNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "uz-UZ",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "乌兹别克语"
+      }
+    ]
+  },
+  {
+    "language": "乌尔都语",
+    "languageCode": "ur",
+    "count": 4,
+    "list": [
+      {
+        "friendlyName": "Gul",
+        "shortName": "ur-IN-GulNeural",
+        "audioUrl": "mp3/Urdu/ur-IN-GulNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ur-IN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "乌尔都语"
+      },
+      {
+        "friendlyName": "Salman",
+        "shortName": "ur-IN-SalmanNeural",
+        "audioUrl": "mp3/Urdu/ur-IN-SalmanNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ur-IN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "乌尔都语"
+      },
+      {
+        "friendlyName": "Asad",
+        "shortName": "ur-PK-AsadNeural",
+        "audioUrl": "mp3/Urdu/ur-PK-AsadNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ur-PK",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "乌尔都语"
+      },
+      {
+        "friendlyName": "Uzma",
+        "shortName": "ur-PK-UzmaNeural",
+        "audioUrl": "mp3/Urdu/ur-PK-UzmaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ur-PK",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "乌尔都语"
+      }
+    ]
+  },
+  {
+    "language": "俄语",
+    "languageCode": "ru",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Dmitry",
+        "shortName": "ru-RU-DmitryNeural",
+        "audioUrl": "mp3/Russian/ru-RU-DmitryNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ru-RU",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "俄语"
+      },
+      {
+        "friendlyName": "Svetlana",
+        "shortName": "ru-RU-SvetlanaNeural",
+        "audioUrl": "mp3/Russian/ru-RU-SvetlanaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ru-RU",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "俄语"
+      }
+    ]
+  },
+  {
+    "language": "保加利亚语",
+    "languageCode": "bg",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Borislav",
+        "shortName": "bg-BG-BorislavNeural",
+        "audioUrl": "mp3/Bulgarian/bg-BG-BorislavNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "bg-BG",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "保加利亚语"
+      },
+      {
+        "friendlyName": "Kalina",
+        "shortName": "bg-BG-KalinaNeural",
+        "audioUrl": "mp3/Bulgarian/bg-BG-KalinaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "bg-BG",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "保加利亚语"
+      }
+    ]
+  },
+  {
+    "language": "僧伽罗语",
+    "languageCode": "si",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Sameera",
+        "shortName": "si-LK-SameeraNeural",
+        "audioUrl": "mp3/Sinhala/si-LK-SameeraNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "si-LK",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "僧伽罗语"
+      },
+      {
+        "friendlyName": "Thilini",
+        "shortName": "si-LK-ThiliniNeural",
+        "audioUrl": "mp3/Sinhala/si-LK-ThiliniNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "si-LK",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "僧伽罗语"
+      }
+    ]
+  },
+  {
+    "language": "克罗地亚语",
+    "languageCode": "hr",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Gabrijela",
+        "shortName": "hr-HR-GabrijelaNeural",
+        "audioUrl": "mp3/Croatian/hr-HR-GabrijelaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "hr-HR",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "克罗地亚语"
+      },
+      {
+        "friendlyName": "Srecko",
+        "shortName": "hr-HR-SreckoNeural",
+        "audioUrl": "mp3/Croatian/hr-HR-SreckoNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "hr-HR",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "克罗地亚语"
+      }
+    ]
+  },
+  {
+    "language": "冰岛语",
+    "languageCode": "is",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Gudrun",
+        "shortName": "is-IS-GudrunNeural",
+        "audioUrl": "mp3/Icelandic/is-IS-GudrunNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "is-IS",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "冰岛语"
+      },
+      {
+        "friendlyName": "Gunnar",
+        "shortName": "is-IS-GunnarNeural",
+        "audioUrl": "mp3/Icelandic/is-IS-GunnarNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "is-IS",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "冰岛语"
+      }
+    ]
+  },
+  {
+    "language": "加利西亚语",
+    "languageCode": "gl",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Roi",
+        "shortName": "gl-ES-RoiNeural",
+        "audioUrl": "mp3/Galician/gl-ES-RoiNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "gl-ES",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "加利西亚语"
+      },
+      {
+        "friendlyName": "Sabela",
+        "shortName": "gl-ES-SabelaNeural",
+        "audioUrl": "mp3/Galician/gl-ES-SabelaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "gl-ES",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "加利西亚语"
+      }
+    ]
+  },
+  {
+    "language": "加泰罗尼亚语",
+    "languageCode": "ca",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Enric",
+        "shortName": "ca-ES-EnricNeural",
+        "audioUrl": "mp3/Catalan/ca-ES-EnricNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ca-ES",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "加泰罗尼亚语"
+      },
+      {
+        "friendlyName": "Joana",
+        "shortName": "ca-ES-JoanaNeural",
+        "audioUrl": "mp3/Catalan/ca-ES-JoanaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ca-ES",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "加泰罗尼亚语"
+      }
+    ]
+  },
+  {
+    "language": "匈牙利语",
+    "languageCode": "hu",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Noemi",
+        "shortName": "hu-HU-NoemiNeural",
+        "audioUrl": "mp3/Hungarian/hu-HU-NoemiNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "hu-HU",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "匈牙利语"
+      },
+      {
+        "friendlyName": "Tamas",
+        "shortName": "hu-HU-TamasNeural",
+        "audioUrl": "mp3/Hungarian/hu-HU-TamasNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "hu-HU",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "匈牙利语"
+      }
+    ]
+  },
+  {
+    "language": "南非语",
+    "languageCode": "af",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Adri",
+        "shortName": "af-ZA-AdriNeural",
+        "audioUrl": "mp3/Afrikaans/af-ZA-AdriNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "af-ZA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "南非语"
+      },
+      {
+        "friendlyName": "Willem",
+        "shortName": "af-ZA-WillemNeural",
+        "audioUrl": "mp3/Afrikaans/af-ZA-WillemNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "af-ZA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "南非语"
+      }
+    ]
+  },
+  {
+    "language": "卡纳达语",
+    "languageCode": "kn",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Gagan",
+        "shortName": "kn-IN-GaganNeural",
+        "audioUrl": "mp3/Kannada/kn-IN-GaganNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "kn-IN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "卡纳达语"
+      },
+      {
+        "friendlyName": "Sapna",
+        "shortName": "kn-IN-SapnaNeural",
+        "audioUrl": "mp3/Kannada/kn-IN-SapnaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "kn-IN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "卡纳达语"
+      }
+    ]
+  },
+  {
+    "language": "印地语",
+    "languageCode": "hi",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Madhur",
+        "shortName": "hi-IN-MadhurNeural",
+        "audioUrl": "mp3/Hindi/hi-IN-MadhurNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "hi-IN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "印地语"
+      },
+      {
+        "friendlyName": "Swara",
+        "shortName": "hi-IN-SwaraNeural",
+        "audioUrl": "mp3/Hindi/hi-IN-SwaraNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "hi-IN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "印地语"
+      }
+    ]
+  },
+  {
+    "language": "印度尼西亚语",
+    "languageCode": "id",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Ardi",
+        "shortName": "id-ID-ArdiNeural",
+        "audioUrl": "mp3/Indonesian/id-ID-ArdiNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "id-ID",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "印度尼西亚语"
+      },
+      {
+        "friendlyName": "Gadis",
+        "shortName": "id-ID-GadisNeural",
+        "audioUrl": "mp3/Indonesian/id-ID-GadisNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "id-ID",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "印度尼西亚语"
+      }
+    ]
+  },
+  {
+    "language": "古吉拉特语",
+    "languageCode": "gu",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Dhwani",
+        "shortName": "gu-IN-DhwaniNeural",
+        "audioUrl": "mp3/Gujarati/gu-IN-DhwaniNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "gu-IN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "古吉拉特语"
+      },
+      {
+        "friendlyName": "Niranjan",
+        "shortName": "gu-IN-NiranjanNeural",
+        "audioUrl": "mp3/Gujarati/gu-IN-NiranjanNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "gu-IN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "古吉拉特语"
+      }
+    ]
+  },
+  {
+    "language": "哈萨克语",
+    "languageCode": "kk",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Aigul",
+        "shortName": "kk-KZ-AigulNeural",
+        "audioUrl": "mp3/Kazakh/kk-KZ-AigulNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "kk-KZ",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "哈萨克语"
+      },
+      {
+        "friendlyName": "Daulet",
+        "shortName": "kk-KZ-DauletNeural",
+        "audioUrl": "mp3/Kazakh/kk-KZ-DauletNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "kk-KZ",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "哈萨克语"
+      }
+    ]
+  },
+  {
+    "language": "土耳其语",
+    "languageCode": "tr",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Emel",
+        "shortName": "tr-TR-EmelNeural",
+        "audioUrl": "mp3/Turkish/tr-TR-EmelNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "tr-TR",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "土耳其语"
+      },
+      {
+        "friendlyName": "Ahmet",
+        "shortName": "tr-TR-AhmetNeural",
+        "audioUrl": "mp3/Turkish/tr-TR-AhmetNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "tr-TR",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "土耳其语"
+      }
+    ]
+  },
+  {
+    "language": "塞尔维亚语",
+    "languageCode": "sr",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Nicholas",
+        "shortName": "sr-RS-NicholasNeural",
+        "audioUrl": "mp3/Serbian/sr-RS-NicholasNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "sr-RS",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "塞尔维亚语"
+      },
+      {
+        "friendlyName": "Sophie",
+        "shortName": "sr-RS-SophieNeural",
+        "audioUrl": "mp3/Serbian/sr-RS-SophieNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "sr-RS",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "塞尔维亚语"
+      }
+    ]
+  },
+  {
+    "language": "威尔士语",
+    "languageCode": "cy",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Aled",
+        "shortName": "cy-GB-AledNeural",
+        "audioUrl": "mp3/Welsh/cy-GB-AledNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "cy-GB",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "威尔士语"
+      },
+      {
+        "friendlyName": "Nia",
+        "shortName": "cy-GB-NiaNeural",
+        "audioUrl": "mp3/Welsh/cy-GB-NiaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "cy-GB",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "威尔士语"
+      }
+    ]
+  },
+  {
+    "language": "孟加拉语",
+    "languageCode": "bn",
+    "count": 4,
+    "list": [
+      {
+        "friendlyName": "Nabanita",
+        "shortName": "bn-BD-NabanitaNeural",
+        "audioUrl": "mp3/Bangla/bn-BD-NabanitaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "bn-BD",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "孟加拉语"
+      },
+      {
+        "friendlyName": "Pradeep",
+        "shortName": "bn-BD-PradeepNeural",
+        "audioUrl": "mp3/Bangla/bn-BD-PradeepNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "bn-BD",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "孟加拉语"
+      },
+      {
+        "friendlyName": "Bashkar",
+        "shortName": "bn-IN-BashkarNeural",
+        "audioUrl": "mp3/Bangla/bn-IN-BashkarNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "bn-IN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "孟加拉语"
+      },
+      {
+        "friendlyName": "Tanishaa",
+        "shortName": "bn-IN-TanishaaNeural",
+        "audioUrl": "mp3/Bengali/bn-IN-TanishaaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "bn-IN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "孟加拉语"
+      }
+    ]
+  },
+  {
+    "language": "尼泊尔语",
+    "languageCode": "ne",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Hemkala",
+        "shortName": "ne-NP-HemkalaNeural",
+        "audioUrl": "mp3/Nepali/ne-NP-HemkalaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ne-NP",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "尼泊尔语"
+      },
+      {
+        "friendlyName": "Sagar",
+        "shortName": "ne-NP-SagarNeural",
+        "audioUrl": "mp3/Nepali/ne-NP-SagarNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ne-NP",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "尼泊尔语"
+      }
+    ]
+  },
+  {
+    "language": "巽他语",
+    "languageCode": "su",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Jajang",
+        "shortName": "su-ID-JajangNeural",
+        "audioUrl": "mp3/Sundanese/su-ID-JajangNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "su-ID",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "巽他语"
+      },
+      {
+        "friendlyName": "Tuti",
+        "shortName": "su-ID-TutiNeural",
+        "audioUrl": "mp3/Sundanese/su-ID-TutiNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "su-ID",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "巽他语"
+      }
+    ]
+  },
+  {
+    "language": "希伯来语",
+    "languageCode": "he",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Avri",
+        "shortName": "he-IL-AvriNeural",
+        "audioUrl": "mp3/Hebrew/he-IL-AvriNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "he-IL",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "希伯来语"
+      },
+      {
+        "friendlyName": "Hila",
+        "shortName": "he-IL-HilaNeural",
+        "audioUrl": "mp3/Hebrew/he-IL-HilaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "he-IL",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "希伯来语"
+      }
+    ]
+  },
+  {
+    "language": "希腊语",
+    "languageCode": "el",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Athina",
+        "shortName": "el-GR-AthinaNeural",
+        "audioUrl": "mp3/Greek/el-GR-AthinaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "el-GR",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "希腊语"
+      },
+      {
+        "friendlyName": "Nestoras",
+        "shortName": "el-GR-NestorasNeural",
+        "audioUrl": "mp3/Greek/el-GR-NestorasNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "el-GR",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "希腊语"
+      }
+    ]
+  },
+  {
+    "language": "德语",
+    "languageCode": "de",
+    "count": 10,
+    "list": [
+      {
+        "friendlyName": "Ingrid",
+        "shortName": "de-AT-IngridNeural",
+        "audioUrl": "mp3/German/de-AT-IngridNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "de-AT",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "德语"
+      },
+      {
+        "friendlyName": "Jonas",
+        "shortName": "de-AT-JonasNeural",
+        "audioUrl": "mp3/German/de-AT-JonasNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "de-AT",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "德语"
+      },
+      {
+        "friendlyName": "SeraphinaMultilingual",
+        "shortName": "de-DE-SeraphinaMultilingualNeural",
+        "audioUrl": "mp3/German/de-DE-SeraphinaMultilingualNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "de-DE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "德语"
+      },
+      {
+        "friendlyName": "FlorianMultilingual",
+        "shortName": "de-DE-FlorianMultilingualNeural",
+        "audioUrl": "mp3/German/de-DE-FlorianMultilingualNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "de-DE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "德语"
+      },
+      {
+        "friendlyName": "Amala",
+        "shortName": "de-DE-AmalaNeural",
+        "audioUrl": "mp3/German/de-DE-AmalaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "de-DE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "德语"
+      },
+      {
+        "friendlyName": "Conrad",
+        "shortName": "de-DE-ConradNeural",
+        "audioUrl": "mp3/German/de-DE-ConradNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "de-DE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "德语"
+      },
+      {
+        "friendlyName": "Katja",
+        "shortName": "de-DE-KatjaNeural",
+        "audioUrl": "mp3/German/de-DE-KatjaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "de-DE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "德语"
+      },
+      {
+        "friendlyName": "Killian",
+        "shortName": "de-DE-KillianNeural",
+        "audioUrl": "mp3/German/de-DE-KillianNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "de-DE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "德语"
+      },
+      {
+        "friendlyName": "Jan",
+        "shortName": "de-CH-JanNeural",
+        "audioUrl": "mp3/German/de-CH-JanNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "de-CH",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "德语"
+      },
+      {
+        "friendlyName": "Leni",
+        "shortName": "de-CH-LeniNeural",
+        "audioUrl": "mp3/German/de-CH-LeniNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "de-CH",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "德语"
+      }
+    ]
+  },
+  {
+    "language": "意大利语",
+    "languageCode": "it",
+    "count": 4,
+    "list": [
+      {
+        "friendlyName": "GiuseppeMultilingual",
+        "shortName": "it-IT-GiuseppeMultilingualNeural",
+        "audioUrl": "mp3/Italian/it-IT-GiuseppeMultilingualNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "it-IT",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "意大利语"
+      },
+      {
+        "friendlyName": "Diego",
+        "shortName": "it-IT-DiegoNeural",
+        "audioUrl": "mp3/Italian/it-IT-DiegoNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "it-IT",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "意大利语"
+      },
+      {
+        "friendlyName": "Elsa",
+        "shortName": "it-IT-ElsaNeural",
+        "audioUrl": "mp3/Italian/it-IT-ElsaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "it-IT",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "意大利语"
+      },
+      {
+        "friendlyName": "Isabella",
+        "shortName": "it-IT-IsabellaNeural",
+        "audioUrl": "mp3/Italian/it-IT-IsabellaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "it-IT",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "意大利语"
+      }
+    ]
+  },
+  {
+    "language": "拉脱维亚语",
+    "languageCode": "lv",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Everita",
+        "shortName": "lv-LV-EveritaNeural",
+        "audioUrl": "mp3/Latvian/lv-LV-EveritaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "lv-LV",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "拉脱维亚语"
+      },
+      {
+        "friendlyName": "Nils",
+        "shortName": "lv-LV-NilsNeural",
+        "audioUrl": "mp3/Latvian/lv-LV-NilsNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "lv-LV",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "拉脱维亚语"
+      }
+    ]
+  },
+  {
+    "language": "挪威语",
+    "languageCode": "nb",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Finn",
+        "shortName": "nb-NO-FinnNeural",
+        "audioUrl": "mp3/Norwegian/nb-NO-FinnNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "nb-NO",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "挪威语"
+      },
+      {
+        "friendlyName": "Pernille",
+        "shortName": "nb-NO-PernilleNeural",
+        "audioUrl": "mp3/Norwegian/nb-NO-PernilleNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "nb-NO",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "挪威语"
+      }
+    ]
+  },
+  {
+    "language": "捷克语",
+    "languageCode": "cs",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Antonin",
+        "shortName": "cs-CZ-AntoninNeural",
+        "audioUrl": "mp3/Czech/cs-CZ-AntoninNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "cs-CZ",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "捷克语"
+      },
+      {
+        "friendlyName": "Vlasta",
+        "shortName": "cs-CZ-VlastaNeural",
+        "audioUrl": "mp3/Czech/cs-CZ-VlastaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "cs-CZ",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "捷克语"
+      }
+    ]
+  },
+  {
+    "language": "斯洛伐克语",
+    "languageCode": "sk",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Lukas",
+        "shortName": "sk-SK-LukasNeural",
+        "audioUrl": "mp3/Slovak/sk-SK-LukasNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "sk-SK",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "斯洛伐克语"
+      },
+      {
+        "friendlyName": "Viktoria",
+        "shortName": "sk-SK-ViktoriaNeural",
+        "audioUrl": "mp3/Slovak/sk-SK-ViktoriaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "sk-SK",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "斯洛伐克语"
+      }
+    ]
+  },
+  {
+    "language": "斯洛文尼亚语",
+    "languageCode": "sl",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Petra",
+        "shortName": "sl-SI-PetraNeural",
+        "audioUrl": "mp3/Slovenian/sl-SI-PetraNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "sl-SI",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "斯洛文尼亚语"
+      },
+      {
+        "friendlyName": "Rok",
+        "shortName": "sl-SI-RokNeural",
+        "audioUrl": "mp3/Slovenian/sl-SI-RokNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "sl-SI",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "斯洛文尼亚语"
+      }
+    ]
+  },
+  {
+    "language": "斯瓦希里语",
+    "languageCode": "sw",
+    "count": 4,
+    "list": [
+      {
+        "friendlyName": "Rafiki",
+        "shortName": "sw-KE-RafikiNeural",
+        "audioUrl": "mp3/Swahili/sw-KE-RafikiNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "sw-KE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "斯瓦希里语"
+      },
+      {
+        "friendlyName": "Zuri",
+        "shortName": "sw-KE-ZuriNeural",
+        "audioUrl": "mp3/Swahili/sw-KE-ZuriNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "sw-KE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "斯瓦希里语"
+      },
+      {
+        "friendlyName": "Daudi",
+        "shortName": "sw-TZ-DaudiNeural",
+        "audioUrl": "mp3/Swahili/sw-TZ-DaudiNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "sw-TZ",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "斯瓦希里语"
+      },
+      {
+        "friendlyName": "Rehema",
+        "shortName": "sw-TZ-RehemaNeural",
+        "audioUrl": "mp3/Swahili/sw-TZ-RehemaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "sw-TZ",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "斯瓦希里语"
+      }
+    ]
+  },
+  {
+    "language": "日语",
+    "languageCode": "ja",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Keita",
+        "shortName": "ja-JP-KeitaNeural",
+        "audioUrl": "mp3/Japanese/ja-JP-KeitaNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ja-JP",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "日语"
+      },
+      {
+        "friendlyName": "Nanami",
+        "shortName": "ja-JP-NanamiNeural",
+        "audioUrl": "mp3/Japanese/ja-JP-NanamiNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ja-JP",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "日语"
+      }
+    ]
+  },
+  {
+    "language": "普什图语",
+    "languageCode": "ps",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "GulNawaz",
+        "shortName": "ps-AF-GulNawazNeural",
+        "audioUrl": "mp3/Pashto/ps-AF-GulNawazNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ps-AF",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "普什图语"
+      },
+      {
+        "friendlyName": "Latifa",
+        "shortName": "ps-AF-LatifaNeural",
+        "audioUrl": "mp3/Pashto/ps-AF-LatifaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ps-AF",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "普什图语"
+      }
+    ]
+  },
+  {
+    "language": "格鲁吉亚语",
+    "languageCode": "ka",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Eka",
+        "shortName": "ka-GE-EkaNeural",
+        "audioUrl": "mp3/Georgian/ka-GE-EkaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ka-GE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "格鲁吉亚语"
+      },
+      {
+        "friendlyName": "Giorgi",
+        "shortName": "ka-GE-GiorgiNeural",
+        "audioUrl": "mp3/Georgian/ka-GE-GiorgiNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ka-GE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "格鲁吉亚语"
+      }
+    ]
+  },
+  {
+    "language": "法语",
+    "languageCode": "fr",
+    "count": 13,
+    "list": [
+      {
+        "friendlyName": "Charline",
+        "shortName": "fr-BE-CharlineNeural",
+        "audioUrl": "mp3/French/fr-BE-CharlineNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "fr-BE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "法语"
+      },
+      {
+        "friendlyName": "Gerard",
+        "shortName": "fr-BE-GerardNeural",
+        "audioUrl": "mp3/French/fr-BE-GerardNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "fr-BE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "法语"
+      },
+      {
+        "friendlyName": "Thierry",
+        "shortName": "fr-CA-ThierryNeural",
+        "audioUrl": "mp3/French/fr-CA-ThierryNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "fr-CA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "法语"
+      },
+      {
+        "friendlyName": "Antoine",
+        "shortName": "fr-CA-AntoineNeural",
+        "audioUrl": "mp3/French/fr-CA-AntoineNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "fr-CA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "法语"
+      },
+      {
+        "friendlyName": "Jean",
+        "shortName": "fr-CA-JeanNeural",
+        "audioUrl": "mp3/French/fr-CA-JeanNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "fr-CA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "法语"
+      },
+      {
+        "friendlyName": "Sylvie",
+        "shortName": "fr-CA-SylvieNeural",
+        "audioUrl": "mp3/French/fr-CA-SylvieNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "fr-CA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "法语"
+      },
+      {
+        "friendlyName": "VivienneMultilingual",
+        "shortName": "fr-FR-VivienneMultilingualNeural",
+        "audioUrl": "mp3/French/fr-FR-VivienneMultilingualNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "fr-FR",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "法语"
+      },
+      {
+        "friendlyName": "RemyMultilingual",
+        "shortName": "fr-FR-RemyMultilingualNeural",
+        "audioUrl": "mp3/French/fr-FR-RemyMultilingualNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "fr-FR",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "法语"
+      },
+      {
+        "friendlyName": "Denise",
+        "shortName": "fr-FR-DeniseNeural",
+        "audioUrl": "mp3/French/fr-FR-DeniseNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "fr-FR",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "法语"
+      },
+      {
+        "friendlyName": "Eloise",
+        "shortName": "fr-FR-EloiseNeural",
+        "audioUrl": "mp3/French/fr-FR-EloiseNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "fr-FR",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "法语"
+      },
+      {
+        "friendlyName": "Henri",
+        "shortName": "fr-FR-HenriNeural",
+        "audioUrl": "mp3/French/fr-FR-HenriNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "fr-FR",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "法语"
+      },
+      {
+        "friendlyName": "Ariane",
+        "shortName": "fr-CH-ArianeNeural",
+        "audioUrl": "mp3/French/fr-CH-ArianeNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "fr-CH",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "法语"
+      },
+      {
+        "friendlyName": "Fabrice",
+        "shortName": "fr-CH-FabriceNeural",
+        "audioUrl": "mp3/French/fr-CH-FabriceNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "fr-CH",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "法语"
+      }
+    ]
+  },
+  {
+    "language": "波兰语",
+    "languageCode": "pl",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Marek",
+        "shortName": "pl-PL-MarekNeural",
+        "audioUrl": "mp3/Polish/pl-PL-MarekNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "pl-PL",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "波兰语"
+      },
+      {
+        "friendlyName": "Zofia",
+        "shortName": "pl-PL-ZofiaNeural",
+        "audioUrl": "mp3/Polish/pl-PL-ZofiaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "pl-PL",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "波兰语"
+      }
+    ]
+  },
+  {
+    "language": "波斯尼亚语",
+    "languageCode": "bs",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Vesna",
+        "shortName": "bs-BA-VesnaNeural",
+        "audioUrl": "mp3/Bosnian/bs-BA-VesnaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "bs-BA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "波斯尼亚语"
+      },
+      {
+        "friendlyName": "Goran",
+        "shortName": "bs-BA-GoranNeural",
+        "audioUrl": "mp3/Bosnian/bs-BA-GoranNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "bs-BA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "波斯尼亚语"
+      }
+    ]
+  },
+  {
+    "language": "波斯语",
+    "languageCode": "fa",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Dilara",
+        "shortName": "fa-IR-DilaraNeural",
+        "audioUrl": "mp3/Persian/fa-IR-DilaraNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "fa-IR",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "波斯语"
+      },
+      {
+        "friendlyName": "Farid",
+        "shortName": "fa-IR-FaridNeural",
+        "audioUrl": "mp3/Persian/fa-IR-FaridNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "fa-IR",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "波斯语"
+      }
+    ]
+  },
+  {
+    "language": "泰卢固语",
+    "languageCode": "te",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Mohan",
+        "shortName": "te-IN-MohanNeural",
+        "audioUrl": "mp3/Telugu/te-IN-MohanNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "te-IN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "泰卢固语"
+      },
+      {
+        "friendlyName": "Shruti",
+        "shortName": "te-IN-ShrutiNeural",
+        "audioUrl": "mp3/Telugu/te-IN-ShrutiNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "te-IN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "泰卢固语"
+      }
+    ]
+  },
+  {
+    "language": "泰米尔语",
+    "languageCode": "ta",
+    "count": 8,
+    "list": [
+      {
+        "friendlyName": "Pallavi",
+        "shortName": "ta-IN-PallaviNeural",
+        "audioUrl": "mp3/Tamil/ta-IN-PallaviNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ta-IN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "泰米尔语"
+      },
+      {
+        "friendlyName": "Valluvar",
+        "shortName": "ta-IN-ValluvarNeural",
+        "audioUrl": "mp3/Tamil/ta-IN-ValluvarNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ta-IN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "泰米尔语"
+      },
+      {
+        "friendlyName": "Kani",
+        "shortName": "ta-MY-KaniNeural",
+        "audioUrl": "mp3/Tamil/ta-MY-KaniNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ta-MY",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "泰米尔语"
+      },
+      {
+        "friendlyName": "Surya",
+        "shortName": "ta-MY-SuryaNeural",
+        "audioUrl": "mp3/Tamil/ta-MY-SuryaNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ta-MY",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "泰米尔语"
+      },
+      {
+        "friendlyName": "Anbu",
+        "shortName": "ta-SG-AnbuNeural",
+        "audioUrl": "mp3/Tamil/ta-SG-AnbuNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ta-SG",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "泰米尔语"
+      },
+      {
+        "friendlyName": "Venba",
+        "shortName": "ta-SG-VenbaNeural",
+        "audioUrl": "mp3/Tamil/ta-SG-VenbaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ta-SG",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "泰米尔语"
+      },
+      {
+        "friendlyName": "Kumar",
+        "shortName": "ta-LK-KumarNeural",
+        "audioUrl": "mp3/Tamil/ta-LK-KumarNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ta-LK",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "泰米尔语"
+      },
+      {
+        "friendlyName": "Saranya",
+        "shortName": "ta-LK-SaranyaNeural",
+        "audioUrl": "mp3/Tamil/ta-LK-SaranyaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ta-LK",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "泰米尔语"
+      }
+    ]
+  },
+  {
+    "language": "泰语",
+    "languageCode": "th",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Niwat",
+        "shortName": "th-TH-NiwatNeural",
+        "audioUrl": "mp3/Thai/th-TH-NiwatNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "th-TH",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "泰语"
+      },
+      {
+        "friendlyName": "Premwadee",
+        "shortName": "th-TH-PremwadeeNeural",
+        "audioUrl": "mp3/Thai/th-TH-PremwadeeNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "th-TH",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "泰语"
+      }
+    ]
+  },
+  {
+    "language": "爪哇语",
+    "languageCode": "jv",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Dimas",
+        "shortName": "jv-ID-DimasNeural",
+        "audioUrl": "mp3/Javanese/jv-ID-DimasNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "jv-ID",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "爪哇语"
+      },
+      {
+        "friendlyName": "Siti",
+        "shortName": "jv-ID-SitiNeural",
+        "audioUrl": "mp3/Javanese/jv-ID-SitiNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "jv-ID",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "爪哇语"
+      }
+    ]
+  },
+  {
+    "language": "爱尔兰语",
+    "languageCode": "ga",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Colm",
+        "shortName": "ga-IE-ColmNeural",
+        "audioUrl": "mp3/Irish/ga-IE-ColmNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ga-IE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "爱尔兰语"
+      },
+      {
+        "friendlyName": "Orla",
+        "shortName": "ga-IE-OrlaNeural",
+        "audioUrl": "mp3/Irish/ga-IE-OrlaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ga-IE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "爱尔兰语"
+      }
+    ]
+  },
+  {
+    "language": "爱沙尼亚语",
+    "languageCode": "et",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Anu",
+        "shortName": "et-EE-AnuNeural",
+        "audioUrl": "mp3/Estonian/et-EE-AnuNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "et-EE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "爱沙尼亚语"
+      },
+      {
+        "friendlyName": "Kert",
+        "shortName": "et-EE-KertNeural",
+        "audioUrl": "mp3/Estonian/et-EE-KertNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "et-EE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "爱沙尼亚语"
+      }
+    ]
+  },
+  {
+    "language": "瑞典语",
+    "languageCode": "sv",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Mattias",
+        "shortName": "sv-SE-MattiasNeural",
+        "audioUrl": "mp3/Swedish/sv-SE-MattiasNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "sv-SE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "瑞典语"
+      },
+      {
+        "friendlyName": "Sofie",
+        "shortName": "sv-SE-SofieNeural",
+        "audioUrl": "mp3/Swedish/sv-SE-SofieNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "sv-SE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "瑞典语"
+      }
+    ]
+  },
+  {
+    "language": "祖鲁语",
+    "languageCode": "zu",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Thando",
+        "shortName": "zu-ZA-ThandoNeural",
+        "audioUrl": "mp3/Zulu/zu-ZA-ThandoNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "zu-ZA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "祖鲁语"
+      },
+      {
+        "friendlyName": "Themba",
+        "shortName": "zu-ZA-ThembaNeural",
+        "audioUrl": "mp3/Zulu/zu-ZA-ThembaNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "zu-ZA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "祖鲁语"
+      }
+    ]
+  },
+  {
+    "language": "立陶宛语",
+    "languageCode": "lt",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Leonas",
+        "shortName": "lt-LT-LeonasNeural",
+        "audioUrl": "mp3/Lithuanian/lt-LT-LeonasNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "lt-LT",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "立陶宛语"
+      },
+      {
+        "friendlyName": "Ona",
+        "shortName": "lt-LT-OnaNeural",
+        "audioUrl": "mp3/Lithuanian/lt-LT-OnaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "lt-LT",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "立陶宛语"
+      }
+    ]
+  },
+  {
+    "language": "索马里语",
+    "languageCode": "so",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Muuse",
+        "shortName": "so-SO-MuuseNeural",
+        "audioUrl": "mp3/Somali/so-SO-MuuseNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "so-SO",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "索马里语"
+      },
+      {
+        "friendlyName": "Ubax",
+        "shortName": "so-SO-UbaxNeural",
+        "audioUrl": "mp3/Somali/so-SO-UbaxNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "so-SO",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "索马里语"
+      }
+    ]
+  },
+  {
+    "language": "缅甸语",
+    "languageCode": "my",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Nilar",
+        "shortName": "my-MM-NilarNeural",
+        "audioUrl": "mp3/Burmese/my-MM-NilarNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "my-MM",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "缅甸语"
+      },
+      {
+        "friendlyName": "Thiha",
+        "shortName": "my-MM-ThihaNeural",
+        "audioUrl": "mp3/Burmese/my-MM-ThihaNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "my-MM",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "缅甸语"
+      }
+    ]
+  },
+  {
+    "language": "罗马尼亚语",
+    "languageCode": "ro",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Alina",
+        "shortName": "ro-RO-AlinaNeural",
+        "audioUrl": "mp3/Romanian/ro-RO-AlinaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ro-RO",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "罗马尼亚语"
+      },
+      {
+        "friendlyName": "Emil",
+        "shortName": "ro-RO-EmilNeural",
+        "audioUrl": "mp3/Romanian/ro-RO-EmilNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ro-RO",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "罗马尼亚语"
+      }
+    ]
+  },
+  {
+    "language": "老挝语",
+    "languageCode": "lo",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Chanthavong",
+        "shortName": "lo-LA-ChanthavongNeural",
+        "audioUrl": "mp3/Lao/lo-LA-ChanthavongNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "lo-LA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "老挝语"
+      },
+      {
+        "friendlyName": "Keomany",
+        "shortName": "lo-LA-KeomanyNeural",
+        "audioUrl": "mp3/Lao/lo-LA-KeomanyNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "lo-LA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "老挝语"
+      }
+    ]
+  },
+  {
+    "language": "芬兰语",
+    "languageCode": "fi",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Harri",
+        "shortName": "fi-FI-HarriNeural",
+        "audioUrl": "mp3/Finnish/fi-FI-HarriNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "fi-FI",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "芬兰语"
+      },
+      {
+        "friendlyName": "Noora",
+        "shortName": "fi-FI-NooraNeural",
+        "audioUrl": "mp3/Finnish/fi-FI-NooraNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "fi-FI",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "芬兰语"
+      }
+    ]
+  },
+  {
+    "language": "英语",
+    "languageCode": "en",
+    "count": 47,
+    "list": [
+      {
+        "friendlyName": "Natasha",
+        "shortName": "en-AU-NatashaNeural",
+        "audioUrl": "mp3/English/en-AU-NatashaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "en-AU",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "William",
+        "shortName": "en-AU-WilliamNeural",
+        "audioUrl": "mp3/English/en-AU-WilliamNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "en-AU",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Clara",
+        "shortName": "en-CA-ClaraNeural",
+        "audioUrl": "mp3/English/en-CA-ClaraNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "en-CA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Liam",
+        "shortName": "en-CA-LiamNeural",
+        "audioUrl": "mp3/English/en-CA-LiamNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "en-CA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Yan",
+        "shortName": "en-HK-YanNeural",
+        "audioUrl": "mp3/English/en-HK-YanNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "en-HK",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Sam",
+        "shortName": "en-HK-SamNeural",
+        "audioUrl": "mp3/English/en-HK-SamNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "en-HK",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Neerja",
+        "shortName": "en-IN-NeerjaExpressiveNeural",
+        "audioUrl": "mp3/English/en-IN-NeerjaExpressiveNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "en-IN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Neerja",
+        "shortName": "en-IN-NeerjaNeural",
+        "audioUrl": "mp3/English/en-IN-NeerjaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "en-IN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Prabhat",
+        "shortName": "en-IN-PrabhatNeural",
+        "audioUrl": "mp3/English/en-IN-PrabhatNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "en-IN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Connor",
+        "shortName": "en-IE-ConnorNeural",
+        "audioUrl": "mp3/English/en-IE-ConnorNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "en-IE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Emily",
+        "shortName": "en-IE-EmilyNeural",
+        "audioUrl": "mp3/English/en-IE-EmilyNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "en-IE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Asilia",
+        "shortName": "en-KE-AsiliaNeural",
+        "audioUrl": "mp3/English/en-KE-AsiliaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "en-KE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Chilemba",
+        "shortName": "en-KE-ChilembaNeural",
+        "audioUrl": "mp3/English/en-KE-ChilembaNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "en-KE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Mitchell",
+        "shortName": "en-NZ-MitchellNeural",
+        "audioUrl": "mp3/English/en-NZ-MitchellNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "en-NZ",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Molly",
+        "shortName": "en-NZ-MollyNeural",
+        "audioUrl": "mp3/English/en-NZ-MollyNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "en-NZ",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Abeo",
+        "shortName": "en-NG-AbeoNeural",
+        "audioUrl": "mp3/English/en-NG-AbeoNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "en-NG",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Ezinne",
+        "shortName": "en-NG-EzinneNeural",
+        "audioUrl": "mp3/English/en-NG-EzinneNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "en-NG",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "James",
+        "shortName": "en-PH-JamesNeural",
+        "audioUrl": "mp3/English/en-PH-JamesNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "en-PH",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Rosa",
+        "shortName": "en-PH-RosaNeural",
+        "audioUrl": "mp3/English/en-PH-RosaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "en-PH",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Luna",
+        "shortName": "en-SG-LunaNeural",
+        "audioUrl": "mp3/English/en-SG-LunaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "en-SG",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Wayne",
+        "shortName": "en-SG-WayneNeural",
+        "audioUrl": "mp3/English/en-SG-WayneNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "en-SG",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "AvaMultilingual",
+        "shortName": "en-US-AvaMultilingualNeural",
+        "audioUrl": "mp3/English/en-US-AvaMultilingualNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "en-US",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "AndrewMultilingual",
+        "shortName": "en-US-AndrewMultilingualNeural",
+        "audioUrl": "mp3/English/en-US-AndrewMultilingualNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "en-US",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "EmmaMultilingual",
+        "shortName": "en-US-EmmaMultilingualNeural",
+        "audioUrl": "mp3/English/en-US-EmmaMultilingualNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "en-US",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "BrianMultilingual",
+        "shortName": "en-US-BrianMultilingualNeural",
+        "audioUrl": "mp3/English/en-US-BrianMultilingualNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "en-US",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Ava",
+        "shortName": "en-US-AvaNeural",
+        "audioUrl": "mp3/English/en-US-AvaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "en-US",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Andrew",
+        "shortName": "en-US-AndrewNeural",
+        "audioUrl": "mp3/English/en-US-AndrewNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "en-US",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Emma",
+        "shortName": "en-US-EmmaNeural",
+        "audioUrl": "mp3/English/en-US-EmmaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "en-US",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Brian",
+        "shortName": "en-US-BrianNeural",
+        "audioUrl": "mp3/English/en-US-BrianNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "en-US",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Leah",
+        "shortName": "en-ZA-LeahNeural",
+        "audioUrl": "mp3/English/en-ZA-LeahNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "en-ZA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Luke",
+        "shortName": "en-ZA-LukeNeural",
+        "audioUrl": "mp3/English/en-ZA-LukeNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "en-ZA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Elimu",
+        "shortName": "en-TZ-ElimuNeural",
+        "audioUrl": "mp3/English/en-TZ-ElimuNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "en-TZ",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Imani",
+        "shortName": "en-TZ-ImaniNeural",
+        "audioUrl": "mp3/English/en-TZ-ImaniNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "en-TZ",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Libby",
+        "shortName": "en-GB-LibbyNeural",
+        "audioUrl": "mp3/English/en-GB-LibbyNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "en-GB",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Maisie",
+        "shortName": "en-GB-MaisieNeural",
+        "audioUrl": "mp3/English/en-GB-MaisieNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "en-GB",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Ryan",
+        "shortName": "en-GB-RyanNeural",
+        "audioUrl": "mp3/English/en-GB-RyanNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "en-GB",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Sonia",
+        "shortName": "en-GB-SoniaNeural",
+        "audioUrl": "mp3/English/en-GB-SoniaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "en-GB",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Thomas",
+        "shortName": "en-GB-ThomasNeural",
+        "audioUrl": "mp3/English/en-GB-ThomasNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "en-GB",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Ana",
+        "shortName": "en-US-AnaNeural",
+        "audioUrl": "mp3/English/en-US-AnaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "en-US",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Aria",
+        "shortName": "en-US-AriaNeural",
+        "audioUrl": "mp3/English/en-US-AriaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "en-US",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Christopher",
+        "shortName": "en-US-ChristopherNeural",
+        "audioUrl": "mp3/English/en-US-ChristopherNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "en-US",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Eric",
+        "shortName": "en-US-EricNeural",
+        "audioUrl": "mp3/English/en-US-EricNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "en-US",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Guy",
+        "shortName": "en-US-GuyNeural",
+        "audioUrl": "mp3/English/en-US-GuyNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "en-US",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Jenny",
+        "shortName": "en-US-JennyNeural",
+        "audioUrl": "mp3/English/en-US-JennyNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "en-US",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Michelle",
+        "shortName": "en-US-MichelleNeural",
+        "audioUrl": "mp3/English/en-US-MichelleNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "en-US",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Roger",
+        "shortName": "en-US-RogerNeural",
+        "audioUrl": "mp3/English/en-US-RogerNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "en-US",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      },
+      {
+        "friendlyName": "Steffan",
+        "shortName": "en-US-SteffanNeural",
+        "audioUrl": "mp3/English/en-US-SteffanNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "en-US",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "英语"
+      }
+    ]
+  },
+  {
+    "language": "荷兰语",
+    "languageCode": "nl",
+    "count": 5,
+    "list": [
+      {
+        "friendlyName": "Arnaud",
+        "shortName": "nl-BE-ArnaudNeural",
+        "audioUrl": "mp3/Dutch/nl-BE-ArnaudNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "nl-BE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "荷兰语"
+      },
+      {
+        "friendlyName": "Dena",
+        "shortName": "nl-BE-DenaNeural",
+        "audioUrl": "mp3/Dutch/nl-BE-DenaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "nl-BE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "荷兰语"
+      },
+      {
+        "friendlyName": "Colette",
+        "shortName": "nl-NL-ColetteNeural",
+        "audioUrl": "mp3/Dutch/nl-NL-ColetteNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "nl-NL",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "荷兰语"
+      },
+      {
+        "friendlyName": "Fenna",
+        "shortName": "nl-NL-FennaNeural",
+        "audioUrl": "mp3/Dutch/nl-NL-FennaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "nl-NL",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "荷兰语"
+      },
+      {
+        "friendlyName": "Maarten",
+        "shortName": "nl-NL-MaartenNeural",
+        "audioUrl": "mp3/Dutch/nl-NL-MaartenNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "nl-NL",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "荷兰语"
+      }
+    ]
+  },
+  {
+    "language": "菲律宾语",
+    "languageCode": "fil",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Angelo",
+        "shortName": "fil-PH-AngeloNeural",
+        "audioUrl": "mp3/Filipino/fil-PH-AngeloNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "fil-PH",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "菲律宾语"
+      },
+      {
+        "friendlyName": "Blessica",
+        "shortName": "fil-PH-BlessicaNeural",
+        "audioUrl": "mp3/Filipino/fil-PH-BlessicaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "fil-PH",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "菲律宾语"
+      }
+    ]
+  },
+  {
+    "language": "葡萄牙语",
+    "languageCode": "pt",
+    "count": 5,
+    "list": [
+      {
+        "friendlyName": "ThalitaMultilingual",
+        "shortName": "pt-BR-ThalitaMultilingualNeural",
+        "audioUrl": "mp3/Portuguese/pt-BR-ThalitaMultilingualNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "pt-BR",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "葡萄牙语"
+      },
+      {
+        "friendlyName": "Antonio",
+        "shortName": "pt-BR-AntonioNeural",
+        "audioUrl": "mp3/Portuguese/pt-BR-AntonioNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "pt-BR",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "葡萄牙语"
+      },
+      {
+        "friendlyName": "Francisca",
+        "shortName": "pt-BR-FranciscaNeural",
+        "audioUrl": "mp3/Portuguese/pt-BR-FranciscaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "pt-BR",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "葡萄牙语"
+      },
+      {
+        "friendlyName": "Duarte",
+        "shortName": "pt-PT-DuarteNeural",
+        "audioUrl": "mp3/Portuguese/pt-PT-DuarteNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "pt-PT",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "葡萄牙语"
+      },
+      {
+        "friendlyName": "Raquel",
+        "shortName": "pt-PT-RaquelNeural",
+        "audioUrl": "mp3/Portuguese/pt-PT-RaquelNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "pt-PT",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "葡萄牙语"
+      }
+    ]
+  },
+  {
+    "language": "蒙古语",
+    "languageCode": "mn",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Bataa",
+        "shortName": "mn-MN-BataaNeural",
+        "audioUrl": "mp3/Mongolian/mn-MN-BataaNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "mn-MN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "蒙古语"
+      },
+      {
+        "friendlyName": "Yesui",
+        "shortName": "mn-MN-YesuiNeural",
+        "audioUrl": "mp3/Mongolian/mn-MN-YesuiNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "mn-MN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "蒙古语"
+      }
+    ]
+  },
+  {
+    "language": "西班牙语",
+    "languageCode": "es",
+    "count": 45,
+    "list": [
+      {
+        "friendlyName": "Elena",
+        "shortName": "es-AR-ElenaNeural",
+        "audioUrl": "mp3/Spanish/es-AR-ElenaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "es-AR",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Tomas",
+        "shortName": "es-AR-TomasNeural",
+        "audioUrl": "mp3/Spanish/es-AR-TomasNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "es-AR",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Marcelo",
+        "shortName": "es-BO-MarceloNeural",
+        "audioUrl": "mp3/Spanish/es-BO-MarceloNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "es-BO",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Sofia",
+        "shortName": "es-BO-SofiaNeural",
+        "audioUrl": "mp3/Spanish/es-BO-SofiaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "es-BO",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Catalina",
+        "shortName": "es-CL-CatalinaNeural",
+        "audioUrl": "mp3/Spanish/es-CL-CatalinaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "es-CL",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Lorenzo",
+        "shortName": "es-CL-LorenzoNeural",
+        "audioUrl": "mp3/Spanish/es-CL-LorenzoNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "es-CL",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Gonzalo",
+        "shortName": "es-CO-GonzaloNeural",
+        "audioUrl": "mp3/Spanish/es-CO-GonzaloNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "es-CO",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Salome",
+        "shortName": "es-CO-SalomeNeural",
+        "audioUrl": "mp3/Spanish/es-CO-SalomeNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "es-CO",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Ximena",
+        "shortName": "es-ES-XimenaNeural",
+        "audioUrl": "mp3/Spanish/es-ES-XimenaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "es-ES",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Juan",
+        "shortName": "es-CR-JuanNeural",
+        "audioUrl": "mp3/Spanish/es-CR-JuanNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "es-CR",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Maria",
+        "shortName": "es-CR-MariaNeural",
+        "audioUrl": "mp3/Spanish/es-CR-MariaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "es-CR",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Belkys",
+        "shortName": "es-CU-BelkysNeural",
+        "audioUrl": "mp3/Spanish/es-CU-BelkysNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "es-CU",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Manuel",
+        "shortName": "es-CU-ManuelNeural",
+        "audioUrl": "mp3/Spanish/es-CU-ManuelNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "es-CU",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Emilio",
+        "shortName": "es-DO-EmilioNeural",
+        "audioUrl": "mp3/Spanish/es-DO-EmilioNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "es-DO",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Ramona",
+        "shortName": "es-DO-RamonaNeural",
+        "audioUrl": "mp3/Spanish/es-DO-RamonaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "es-DO",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Andrea",
+        "shortName": "es-EC-AndreaNeural",
+        "audioUrl": "mp3/Spanish/es-EC-AndreaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "es-EC",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Luis",
+        "shortName": "es-EC-LuisNeural",
+        "audioUrl": "mp3/Spanish/es-EC-LuisNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "es-EC",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Lorena",
+        "shortName": "es-SV-LorenaNeural",
+        "audioUrl": "mp3/Spanish/es-SV-LorenaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "es-SV",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Rodrigo",
+        "shortName": "es-SV-RodrigoNeural",
+        "audioUrl": "mp3/Spanish/es-SV-RodrigoNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "es-SV",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Javier",
+        "shortName": "es-GQ-JavierNeural",
+        "audioUrl": "mp3/Spanish/es-GQ-JavierNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "es-GQ",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Teresa",
+        "shortName": "es-GQ-TeresaNeural",
+        "audioUrl": "mp3/Spanish/es-GQ-TeresaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "es-GQ",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Andres",
+        "shortName": "es-GT-AndresNeural",
+        "audioUrl": "mp3/Spanish/es-GT-AndresNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "es-GT",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Marta",
+        "shortName": "es-GT-MartaNeural",
+        "audioUrl": "mp3/Spanish/es-GT-MartaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "es-GT",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Carlos",
+        "shortName": "es-HN-CarlosNeural",
+        "audioUrl": "mp3/Spanish/es-HN-CarlosNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "es-HN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Karla",
+        "shortName": "es-HN-KarlaNeural",
+        "audioUrl": "mp3/Spanish/es-HN-KarlaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "es-HN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Dalia",
+        "shortName": "es-MX-DaliaNeural",
+        "audioUrl": "mp3/Spanish/es-MX-DaliaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "es-MX",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Jorge",
+        "shortName": "es-MX-JorgeNeural",
+        "audioUrl": "mp3/Spanish/es-MX-JorgeNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "es-MX",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Federico",
+        "shortName": "es-NI-FedericoNeural",
+        "audioUrl": "mp3/Spanish/es-NI-FedericoNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "es-NI",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Yolanda",
+        "shortName": "es-NI-YolandaNeural",
+        "audioUrl": "mp3/Spanish/es-NI-YolandaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "es-NI",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Margarita",
+        "shortName": "es-PA-MargaritaNeural",
+        "audioUrl": "mp3/Spanish/es-PA-MargaritaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "es-PA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Roberto",
+        "shortName": "es-PA-RobertoNeural",
+        "audioUrl": "mp3/Spanish/es-PA-RobertoNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "es-PA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Mario",
+        "shortName": "es-PY-MarioNeural",
+        "audioUrl": "mp3/Spanish/es-PY-MarioNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "es-PY",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Tania",
+        "shortName": "es-PY-TaniaNeural",
+        "audioUrl": "mp3/Spanish/es-PY-TaniaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "es-PY",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Alex",
+        "shortName": "es-PE-AlexNeural",
+        "audioUrl": "mp3/Spanish/es-PE-AlexNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "es-PE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Camila",
+        "shortName": "es-PE-CamilaNeural",
+        "audioUrl": "mp3/Spanish/es-PE-CamilaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "es-PE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Karina",
+        "shortName": "es-PR-KarinaNeural",
+        "audioUrl": "mp3/Spanish/es-PR-KarinaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "es-PR",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Victor",
+        "shortName": "es-PR-VictorNeural",
+        "audioUrl": "mp3/Spanish/es-PR-VictorNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "es-PR",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Alvaro",
+        "shortName": "es-ES-AlvaroNeural",
+        "audioUrl": "mp3/Spanish/es-ES-AlvaroNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "es-ES",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Elvira",
+        "shortName": "es-ES-ElviraNeural",
+        "audioUrl": "mp3/Spanish/es-ES-ElviraNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "es-ES",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Alonso",
+        "shortName": "es-US-AlonsoNeural",
+        "audioUrl": "mp3/Spanish/es-US-AlonsoNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "es-US",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Paloma",
+        "shortName": "es-US-PalomaNeural",
+        "audioUrl": "mp3/Spanish/es-US-PalomaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "es-US",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Mateo",
+        "shortName": "es-UY-MateoNeural",
+        "audioUrl": "mp3/Spanish/es-UY-MateoNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "es-UY",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Valentina",
+        "shortName": "es-UY-ValentinaNeural",
+        "audioUrl": "mp3/Spanish/es-UY-ValentinaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "es-UY",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Paola",
+        "shortName": "es-VE-PaolaNeural",
+        "audioUrl": "mp3/Spanish/es-VE-PaolaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "es-VE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      },
+      {
+        "friendlyName": "Sebastian",
+        "shortName": "es-VE-SebastianNeural",
+        "audioUrl": "mp3/Spanish/es-VE-SebastianNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "es-VE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "西班牙语"
+      }
+    ]
+  },
+  {
+    "language": "越南语",
+    "languageCode": "vi",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "HoaiMy",
+        "shortName": "vi-VN-HoaiMyNeural",
+        "audioUrl": "mp3/Vietnamese/vi-VN-HoaiMyNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "vi-VN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "越南语"
+      },
+      {
+        "friendlyName": "NamMinh",
+        "shortName": "vi-VN-NamMinhNeural",
+        "audioUrl": "mp3/Vietnamese/vi-VN-NamMinhNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "vi-VN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "越南语"
+      }
+    ]
+  },
+  {
+    "language": "阿塞拜疆语",
+    "languageCode": "az",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Babek",
+        "shortName": "az-AZ-BabekNeural",
+        "audioUrl": "mp3/Azerbaijani/az-AZ-BabekNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "az-AZ",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿塞拜疆语"
+      },
+      {
+        "friendlyName": "Banu",
+        "shortName": "az-AZ-BanuNeural",
+        "audioUrl": "mp3/Azerbaijani/az-AZ-BanuNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "az-AZ",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿塞拜疆语"
+      }
+    ]
+  },
+  {
+    "language": "阿姆哈拉语",
+    "languageCode": "am",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Ameha",
+        "shortName": "am-ET-AmehaNeural",
+        "audioUrl": "mp3/Amharic/am-ET-AmehaNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "am-ET",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿姆哈拉语"
+      },
+      {
+        "friendlyName": "Mekdes",
+        "shortName": "am-ET-MekdesNeural",
+        "audioUrl": "mp3/Amharic/am-ET-MekdesNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "am-ET",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿姆哈拉语"
+      }
+    ]
+  },
+  {
+    "language": "阿尔巴尼亚语",
+    "languageCode": "sq",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Anila",
+        "shortName": "sq-AL-AnilaNeural",
+        "audioUrl": "mp3/Albanian/sq-AL-AnilaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "sq-AL",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿尔巴尼亚语"
+      },
+      {
+        "friendlyName": "Ilir",
+        "shortName": "sq-AL-IlirNeural",
+        "audioUrl": "mp3/Albanian/sq-AL-IlirNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "sq-AL",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿尔巴尼亚语"
+      }
+    ]
+  },
+  {
+    "language": "阿拉伯语",
+    "languageCode": "ar",
+    "count": 32,
+    "list": [
+      {
+        "friendlyName": "Amina",
+        "shortName": "ar-DZ-AminaNeural",
+        "audioUrl": "mp3/Arabic/ar-DZ-AminaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ar-DZ",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Ismael",
+        "shortName": "ar-DZ-IsmaelNeural",
+        "audioUrl": "mp3/Arabic/ar-DZ-IsmaelNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ar-DZ",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Ali",
+        "shortName": "ar-BH-AliNeural",
+        "audioUrl": "mp3/Arabic/ar-BH-AliNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ar-BH",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Laila",
+        "shortName": "ar-BH-LailaNeural",
+        "audioUrl": "mp3/Arabic/ar-BH-LailaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ar-BH",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Salma",
+        "shortName": "ar-EG-SalmaNeural",
+        "audioUrl": "mp3/Arabic/ar-EG-SalmaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ar-EG",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Shakir",
+        "shortName": "ar-EG-ShakirNeural",
+        "audioUrl": "mp3/Arabic/ar-EG-ShakirNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ar-EG",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Bassel",
+        "shortName": "ar-IQ-BasselNeural",
+        "audioUrl": "mp3/Arabic/ar-IQ-BasselNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ar-IQ",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Rana",
+        "shortName": "ar-IQ-RanaNeural",
+        "audioUrl": "mp3/Arabic/ar-IQ-RanaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ar-IQ",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Sana",
+        "shortName": "ar-JO-SanaNeural",
+        "audioUrl": "mp3/Arabic/ar-JO-SanaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ar-JO",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Taim",
+        "shortName": "ar-JO-TaimNeural",
+        "audioUrl": "mp3/Arabic/ar-JO-TaimNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ar-JO",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Fahed",
+        "shortName": "ar-KW-FahedNeural",
+        "audioUrl": "mp3/Arabic/ar-KW-FahedNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ar-KW",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Noura",
+        "shortName": "ar-KW-NouraNeural",
+        "audioUrl": "mp3/Arabic/ar-KW-NouraNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ar-KW",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Layla",
+        "shortName": "ar-LB-LaylaNeural",
+        "audioUrl": "mp3/Arabic/ar-LB-LaylaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ar-LB",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Rami",
+        "shortName": "ar-LB-RamiNeural",
+        "audioUrl": "mp3/Arabic/ar-LB-RamiNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ar-LB",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Iman",
+        "shortName": "ar-LY-ImanNeural",
+        "audioUrl": "mp3/Arabic/ar-LY-ImanNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ar-LY",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Omar",
+        "shortName": "ar-LY-OmarNeural",
+        "audioUrl": "mp3/Arabic/ar-LY-OmarNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ar-LY",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Jamal",
+        "shortName": "ar-MA-JamalNeural",
+        "audioUrl": "mp3/Arabic/ar-MA-JamalNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ar-MA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Mouna",
+        "shortName": "ar-MA-MounaNeural",
+        "audioUrl": "mp3/Arabic/ar-MA-MounaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ar-MA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Abdullah",
+        "shortName": "ar-OM-AbdullahNeural",
+        "audioUrl": "mp3/Arabic/ar-OM-AbdullahNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ar-OM",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Aysha",
+        "shortName": "ar-OM-AyshaNeural",
+        "audioUrl": "mp3/Arabic/ar-OM-AyshaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ar-OM",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Amal",
+        "shortName": "ar-QA-AmalNeural",
+        "audioUrl": "mp3/Arabic/ar-QA-AmalNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ar-QA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Moaz",
+        "shortName": "ar-QA-MoazNeural",
+        "audioUrl": "mp3/Arabic/ar-QA-MoazNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ar-QA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Hamed",
+        "shortName": "ar-SA-HamedNeural",
+        "audioUrl": "mp3/Arabic/ar-SA-HamedNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ar-SA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Zariyah",
+        "shortName": "ar-SA-ZariyahNeural",
+        "audioUrl": "mp3/Arabic/ar-SA-ZariyahNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ar-SA",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Amany",
+        "shortName": "ar-SY-AmanyNeural",
+        "audioUrl": "mp3/Arabic/ar-SY-AmanyNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ar-SY",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Laith",
+        "shortName": "ar-SY-LaithNeural",
+        "audioUrl": "mp3/Arabic/ar-SY-LaithNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ar-SY",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Hedi",
+        "shortName": "ar-TN-HediNeural",
+        "audioUrl": "mp3/Arabic/ar-TN-HediNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ar-TN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Reem",
+        "shortName": "ar-TN-ReemNeural",
+        "audioUrl": "mp3/Arabic/ar-TN-ReemNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ar-TN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Fatima",
+        "shortName": "ar-AE-FatimaNeural",
+        "audioUrl": "mp3/Arabic/ar-AE-FatimaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ar-AE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Hamdan",
+        "shortName": "ar-AE-HamdanNeural",
+        "audioUrl": "mp3/Arabic/ar-AE-HamdanNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ar-AE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Maryam",
+        "shortName": "ar-YE-MaryamNeural",
+        "audioUrl": "mp3/Arabic/ar-YE-MaryamNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ar-YE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      },
+      {
+        "friendlyName": "Saleh",
+        "shortName": "ar-YE-SalehNeural",
+        "audioUrl": "mp3/Arabic/ar-YE-SalehNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ar-YE",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "阿拉伯语"
+      }
+    ]
+  },
+  {
+    "language": "韩语",
+    "languageCode": "ko",
+    "count": 3,
+    "list": [
+      {
+        "friendlyName": "HyunsuMultilingual",
+        "shortName": "ko-KR-HyunsuMultilingualNeural",
+        "audioUrl": "mp3/Korean/ko-KR-HyunsuMultilingualNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ko-KR",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "韩语"
+      },
+      {
+        "friendlyName": "InJoon",
+        "shortName": "ko-KR-InJoonNeural",
+        "audioUrl": "mp3/Korean/ko-KR-InJoonNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ko-KR",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "韩语"
+      },
+      {
+        "friendlyName": "SunHi",
+        "shortName": "ko-KR-SunHiNeural",
+        "audioUrl": "mp3/Korean/ko-KR-SunHiNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ko-KR",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "韩语"
+      }
+    ]
+  },
+  {
+    "language": "马其顿语",
+    "languageCode": "mk",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Aleksandar",
+        "shortName": "mk-MK-AleksandarNeural",
+        "audioUrl": "mp3/Macedonian/mk-MK-AleksandarNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "mk-MK",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "马其顿语"
+      },
+      {
+        "friendlyName": "Marija",
+        "shortName": "mk-MK-MarijaNeural",
+        "audioUrl": "mp3/Macedonian/mk-MK-MarijaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "mk-MK",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "马其顿语"
+      }
+    ]
+  },
+  {
+    "language": "马拉地语",
+    "languageCode": "mr",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Aarohi",
+        "shortName": "mr-IN-AarohiNeural",
+        "audioUrl": "mp3/Marathi/mr-IN-AarohiNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "mr-IN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "马拉地语"
+      },
+      {
+        "friendlyName": "Manohar",
+        "shortName": "mr-IN-ManoharNeural",
+        "audioUrl": "mp3/Marathi/mr-IN-ManoharNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "mr-IN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "马拉地语"
+      }
+    ]
+  },
+  {
+    "language": "马拉雅拉姆语",
+    "languageCode": "ml",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Midhun",
+        "shortName": "ml-IN-MidhunNeural",
+        "audioUrl": "mp3/Malayalam/ml-IN-MidhunNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ml-IN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "马拉雅拉姆语"
+      },
+      {
+        "friendlyName": "Sobhana",
+        "shortName": "ml-IN-SobhanaNeural",
+        "audioUrl": "mp3/Malayalam/ml-IN-SobhanaNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ml-IN",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "马拉雅拉姆语"
+      }
+    ]
+  },
+  {
+    "language": "马来语",
+    "languageCode": "ms",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Osman",
+        "shortName": "ms-MY-OsmanNeural",
+        "audioUrl": "mp3/Malay/ms-MY-OsmanNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "ms-MY",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "马来语"
+      },
+      {
+        "friendlyName": "Yasmin",
+        "shortName": "ms-MY-YasminNeural",
+        "audioUrl": "mp3/Malay/ms-MY-YasminNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "ms-MY",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "马来语"
+      }
+    ]
+  },
+  {
+    "language": "马耳他语",
+    "languageCode": "mt",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Grace",
+        "shortName": "mt-MT-GraceNeural",
+        "audioUrl": "mp3/Maltese/mt-MT-GraceNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "mt-MT",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "马耳他语"
+      },
+      {
+        "friendlyName": "Joseph",
+        "shortName": "mt-MT-JosephNeural",
+        "audioUrl": "mp3/Maltese/mt-MT-JosephNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "mt-MT",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "马耳他语"
+      }
+    ]
+  },
+  {
+    "language": "高棉语",
+    "languageCode": "km",
+    "count": 2,
+    "list": [
+      {
+        "friendlyName": "Piseth",
+        "shortName": "km-KH-PisethNeural",
+        "audioUrl": "mp3/Khmer/km-KH-PisethNeural.mp3",
+        "parameters": {
+          "Gender": "Male",
+          "Locale": "km-KH",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "高棉语"
+      },
+      {
+        "friendlyName": "Sreymom",
+        "shortName": "km-KH-SreymomNeural",
+        "audioUrl": "mp3/Khmer/km-KH-SreymomNeural.mp3",
+        "parameters": {
+          "Gender": "Female",
+          "Locale": "km-KH",
+          "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+          "Status": "GA"
+        },
+        "languageChineseName": "高棉语"
+      }
+    ]
+  }
+]

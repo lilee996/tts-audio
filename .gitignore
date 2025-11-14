@@ -1,0 +1,8 @@
+﻿.venv
+__pycache__
+data
+examples
+requirements.txt
+main.py
+Baidu_Text_transAPI.py
+available_voices.txt
