@@ -1,5 +1,8 @@
-﻿.venv
+.venv
 __pycache__
 data
 examples
+download_audio
 Baidu_Text_transAPI.py
+main.py
+.env

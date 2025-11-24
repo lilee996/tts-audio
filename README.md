@@ -2,48 +2,52 @@
 
 一个使用 `edge-tts` 库实现的基于 FastAPI 的语音合成服务，支持文本翻译和音频生成功能。
 
-## 功能特点
-- 支持多种语音（包括中文、英文等）
-- 生成 MP3 格式音频文件和 SRT 字幕
-- 集成百度翻译 API 实现文本翻译
-- 异步处理，性能高效
-- 提供 RESTful API 接口
-- 支持通过 Web 界面访问音频列表
+## ✨ 功能特性
+- 🎤 **多语音支持**：覆盖中文、英文等多种语言和音色
+- 🎵 **音频与字幕**：生成高质量 MP3 格式音频和同步 SRT 字幕
+- 🌐 **自动翻译**：集成百度翻译 API 实现文本自动翻译
+- ⚡ **异步高效**：采用异步处理架构，性能优异
+- 📡 **RESTful API**：提供规范的 API 接口，易于集成
+- 🖥️ **Web 界面**：支持通过静态网页查看和播放音频列表
 
-## 安装依赖
+## 🚀 快速开始
 
-### 1. 创建虚拟环境
+### 1. 安装依赖
+
+#### 创建虚拟环境
 ```powershell
 python -m venv .venv
 ```
 
-### 2. 激活虚拟环境
+#### 激活虚拟环境
 ```powershell
 .venv\Scripts\Activate.ps1
 ```
 
-### 3. 安装依赖
+#### 安装依赖
 ```powershell
 pip install -r requirements.txt
 ```
 
-## 配置
+### 2. 配置参数
 
-在 `main.py` 中设置以下参数：
+项目使用环境变量管理配置。复制 `.env.example` 文件并重命名为 `.env`，然后填写以下参数：
 
-```python
+```bash
 # 百度翻译 API 配置
-APP_ID = "your_baidu_app_id"  # 替换为你的百度翻译 API App ID
-APP_KEY = "your_baidu_app_key"  # 替换为你的百度翻译 API App Key
-SECRET_TOKEN = "your_secret_token"  # 替换为你的 API 访问令牌
+BAIDU_TRANSLATE_APP_ID=your_baidu_translate_app_id
+BAIDU_TRANSLATE_APP_KEY=your_baidu_translate_app_key
+
+# API访问令牌
+API_SECRET_TOKEN=your_api_secret_token
 ```
 
 - 百度翻译 API 可在 [百度智能云控制台](https://console.bce.baidu.com/) 申请
-- `SECRET_TOKEN` 用于验证 API 请求，可自定义设置
+- `API_SECRET_TOKEN` 用于验证 API 请求，需妥善保管
+- 确保 `.env` 文件不被提交到版本控制系统中（已在 `.gitignore` 中配置）
 
-## API 文档
+### 3. 启动服务
 
-### 运行 API 服务
 ```powershell
 python main.py
 ```
@@ -52,11 +56,12 @@ python main.py
 - Swagger UI: `http://localhost:8000/docs`
 - ReDoc: `http://localhost:8000/redoc`
 
-### API 端点
+## 📖 API 文档
+
+### 主要端点
 
 #### POST /api/tts
-
-语音合成接口
+**语音合成接口**
 
 **请求参数：**
 ```json
@@ -78,16 +83,15 @@ python main.py
 ```
 
 #### GET /api/download/{filename}
+**文件下载接口**
 
-文件下载接口
+用于下载生成的音频或字幕文件
 
-## 音频数据结构
-
-项目包含以下与音频相关的文件：
+## 📊 音频数据结构
 
 ### audio_list_grouped.json
 
-一个 JSON 文件，包含按语言分组的音频列表信息。结构示例：
+按语言分组的音频列表信息文件，结构示例：
 
 ```json
 [
@@ -115,15 +119,15 @@ python main.py
 
 ### mp3/ 文件夹
 
-存放所有合成的 MP3 音频文件，文件命名与语音类型对应。
+存放所有合成的 MP3 音频文件，文件命名与语音类型一一对应
 
-## Web 界面
+## 🖥️ Web 界面
 
 通过静态网页可查看和播放音频列表：
 
 ### 本地访问
 1. 创建 `index.html` 文件（可参考项目提供的示例）
-2. 使用本地服务器打开：
+2. 使用 Python 内置服务器打开：
    ```powershell
    python -m http.server 8000
    ```
@@ -147,9 +151,9 @@ python main.py
    https://your-username.github.io/your-repo-name/
    ```
 
-## 可用语音
+## 🗣️ 可用语音
 
-### 查看语音列表
+### 查看所有语音
 ```powershell
 edge-tts --list-voices
 ```
@@ -164,16 +168,16 @@ cat available_voices.txt
 - `zh-CN-YunzheNeural`: 云哲 - 中文男声
 - `zh-CN-XiaoxiaoNeural`: 晓晓 - 中文女声
 
-## 注意事项
-- 需要网络连接才能使用 edge-tts 和百度翻译服务
-- 首次运行可能需要下载语音包
-- 支持长文本合成
+## ⚠️ 注意事项
+- 需要稳定的网络连接才能使用 edge-tts 和百度翻译服务
+- 首次运行可能需要下载语音包（取决于所选语音）
+- 支持长文本合成，系统会自动进行分段处理
 - 音频文件默认保存在项目根目录，可在代码中修改保存路径
-- API 访问令牌需保密，不要泄露到公共仓库
+- API 访问令牌需严格保密，切勿泄露到公共仓库
 
-## 清理临时文件
+## 🧹 清理临时文件
 
-服务启动时会自动清理旧的音频和字幕文件，也可手动清理：
+服务启动时会自动清理旧的音频和字幕文件（前缀为 `tts_` 的文件），也可手动清理：
 
 ```powershell
 for %%i in (*.mp3 *.srt) do if %%~ni == tts_* del %%i
