@@ -3,6 +3,7 @@ import edge_tts
 import random
 import json
 import re
+import time
 from hashlib import md5
 import requests
 from fastapi import FastAPI, HTTPException, UploadFile, File, Request
@@ -46,6 +47,7 @@ class TTSRequest(BaseModel):
     voice: str  # 语音类型，如"zh-HK-HiuGaaiNeural"
     token: str  # 访问令牌
     translate: bool = False  # 是否翻译文本，默认不翻译
+    use_custom_split: bool = True  # 是否使用自定义分割，默认使用
 
 # 生成MD5签名
 def make_md5(s, encoding='utf-8'):
@@ -64,12 +66,17 @@ def translate_text(query: str, from_lang: str = "zh", to_lang: str = "en") -> st
         'salt': salt, 
         'sign': sign
     }
-    r = requests.post(TRANSLATE_URL, params=payload, headers=headers)
-    result = r.json()
-    if "trans_result" in result:
-        return result["trans_result"][0]["dst"]
-    else:
-        raise HTTPException(status_code=500, detail="翻译失败: " + result.get("error_msg", "未知错误"))
+    try:
+        r = requests.post(TRANSLATE_URL, params=payload, headers=headers)
+        result = r.json()
+        if "trans_result" in result:
+            return result["trans_result"][0]["dst"]
+        else:
+            # 直接抛出异常，由上层统一处理返回格式
+            raise Exception("翻译失败: " + result.get("error_msg", "未知错误"))
+    except requests.exceptions.RequestException as e:
+        # 处理网络请求异常
+        raise Exception("翻译服务连接失败: " + str(e))
 
 # 基于标点符号的文本分割函数，主要用于句子级别的分割
 # 针对字幕生成，优化为按句号、问号、感叹号等结束标点分割，同时支持中英文逗号
@@ -182,7 +189,7 @@ def ms_to_srt_time(ms: int) -> str:
     return f"{hours:02d}:{minutes:02d}:{seconds:02d},{milliseconds:03d}"
 
 # 生成音频和字幕异步函数
-async def generate_tts(text: str, voice: str) -> tuple[str, str]:
+async def generate_tts(text: str, voice: str, use_custom_split: bool = True) -> tuple[str, str]:
     # 生成唯一的文件名
     filename = f"tts_{md5(text.encode('utf-8')).hexdigest()}_{voice.replace('.', '_')}"
     os.makedirs("download_audio", exist_ok=True)
@@ -208,84 +215,113 @@ async def generate_tts(text: str, voice: str) -> tuple[str, str]:
                         "duration_ms": chunk["duration"] // 10000
                     })
         
-        # 分割文本为新的片段
-        new_segments = split_text_by_punctuation(text)
+        # 根据参数决定是否使用自定义分割
+        if use_custom_split:
+            new_segments = split_text_by_punctuation(text)
+        else:
+            # 使用原分词方式（按单词或默认方式）
+            new_segments = [text]
         
-        # 如果获取到了单词边界，生成更精确的字幕
-        if word_chunks:
-            # 将单词边界转换为带位置信息的列表
-            words_with_positions = []
-            current_pos = 0
-            for chunk in word_chunks:
-                word = chunk["word"]
-                # 在原始文本中查找单词的位置
-                pos = text.find(word, current_pos)
-                if pos == -1:
-                    continue
+        # 根据use_custom_split参数决定使用哪种字幕生成方式
+        if use_custom_split:
+            # 使用自定义分割方式
+            if word_chunks:
+                # 将单词边界转换为带位置信息的列表
+                words_with_positions = []
+                current_pos = 0
+                for chunk in word_chunks:
+                    word = chunk["word"]
+                    # 在原始文本中查找单词的位置
+                    pos = text.find(word, current_pos)
+                    if pos == -1:
+                        continue
+                    
+                    end_pos = pos + len(word)
+                    words_with_positions.append({
+                        "word": word,
+                        "start_pos": pos,
+                        "end_pos": end_pos,
+                        "offset_ms": chunk["offset_ms"],
+                        "duration_ms": chunk["duration_ms"]
+                    })
+                    current_pos = end_pos
                 
-                end_pos = pos + len(word)
-                words_with_positions.append({
-                    "word": word,
-                    "start_pos": pos,
-                    "end_pos": end_pos,
-                    "offset_ms": chunk["offset_ms"],
-                    "duration_ms": chunk["duration_ms"]
-                })
-                current_pos = end_pos
-            
-            # 生成新的字幕cue
-            new_cues = []
-            index = 0
-            current_pos = 0  # 用于跟踪当前查找位置，避免重复匹配
-            
-            for segment in new_segments:
-                segment = segment.strip()
-                if not segment:
-                    continue
+                # 生成新的字幕cue
+                new_cues = []
+                index = 0
+                current_pos = 0  # 用于跟踪当前查找位置，避免重复匹配
                 
-                # 查找片段在原始文本中的位置，从上一个位置开始
-                seg_start = text.find(segment, current_pos)
-                if seg_start == -1:
-                    continue
+                for segment in new_segments:
+                    segment = segment.strip()
+                    if not segment:
+                        continue
+                    
+                    # 查找片段在原始文本中的位置，从上一个位置开始
+                    seg_start = text.find(segment, current_pos)
+                    if seg_start == -1:
+                        continue
+                    
+                    seg_end = seg_start + len(segment)
+                    # 更新当前位置为该片段的结束位置，下一次查找从这里开始
+                    current_pos = seg_end
+                    
+                    # 找到对应片段的所有单词
+                    seg_words = [
+                        w for w in words_with_positions
+                        if w["start_pos"] < seg_end and w["end_pos"] > seg_start
+                    ]
+                    
+                    if not seg_words:
+                        continue
+                    
+                    # 计算片段的开始和结束时间
+                    start_time = seg_words[0]["offset_ms"]
+                    end_time = seg_words[-1]["offset_ms"] + seg_words[-1]["duration_ms"]
+                    
+                    # 转换为SRT时间格式
+                    srt_start = ms_to_srt_time(start_time)
+                    srt_end = ms_to_srt_time(end_time)
+                    
+                    # 添加到新的cue列表
+                    index += 1
+                    new_cues.append({"index": index, "start_time": srt_start, "end_time": srt_end, "text": segment})
                 
-                seg_end = seg_start + len(segment)
-                # 更新当前位置为该片段的结束位置，下一次查找从这里开始
-                current_pos = seg_end
+                # 生成SRT内容
+                srt_content = ""
+                for cue in new_cues:
+                    srt_content += f"{cue['index']}\n"
+                    srt_content += f"{cue['start_time']} --> {cue['end_time']}\n"
+                    srt_content += f"{cue['text']}\n\n"
+            else:
+                # 如果没有获取到单词边界，使用默认的字幕生成方式
+                communicate = edge_tts.Communicate(text, voice, boundary="SentenceBoundary")
+                submaker = edge_tts.SubMaker()
                 
-                # 找到对应片段的所有单词
-                seg_words = [
-                    w for w in words_with_positions
-                    if w["start_pos"] < seg_end and w["end_pos"] > seg_start
-                ]
+                # 重新写入音频文件并收集边界信息
+                with open(audio_file, "wb") as af:
+                    async for chunk in communicate.stream():
+                        if chunk["type"] == "audio":
+                            af.write(chunk["data"])
+                        elif chunk["type"] in ("WordBoundary", "SentenceBoundary"):
+                            submaker.feed(chunk)
                 
-                if not seg_words:
-                    continue
+                # 获取原始SRT内容
+                original_srt = submaker.get_srt()
                 
-                # 计算片段的开始和结束时间
-                start_time = seg_words[0]["offset_ms"]
-                end_time = seg_words[-1]["offset_ms"] + seg_words[-1]["duration_ms"]
+                # 解析原始SRT
+                original_cues = parse_srt_content(original_srt)
                 
-                # 转换为SRT时间格式
-                srt_start = ms_to_srt_time(start_time)
-                srt_end = ms_to_srt_time(end_time)
+                # 重新生成SRT
+                new_srt = regenerate_srt(new_segments, original_cues)
                 
-                # 添加到新的cue列表
-                index += 1
-                new_cues.append({"index": index, "start_time": srt_start, "end_time": srt_end, "text": segment})
-            
-            # 生成SRT内容
-            srt_content = ""
-            for cue in new_cues:
-                srt_content += f"{cue['index']}\n"
-                srt_content += f"{cue['start_time']} --> {cue['end_time']}\n"
-                srt_content += f"{cue['text']}\n\n"
+                srt_content = new_srt
             
             # 保存新的SRT文件
             with open(subtitle_file, "w", encoding="utf-8") as sf:
                 sf.write(srt_content)
         else:
-            # 如果没有获取到单词边界，使用默认的字幕生成方式
-            communicate = edge_tts.Communicate(text, voice, boundary="SentenceBoundary")
+            # 使用edge_tts的原分词方式生成字幕
+            communicate = edge_tts.Communicate(text, voice, boundary="WordBoundary")
             submaker = edge_tts.SubMaker()
             
             # 重新写入音频文件并收集边界信息
@@ -296,18 +332,10 @@ async def generate_tts(text: str, voice: str) -> tuple[str, str]:
                     elif chunk["type"] in ("WordBoundary", "SentenceBoundary"):
                         submaker.feed(chunk)
             
-            # 获取原始SRT内容
+            # 获取原始SRT内容并保存
             original_srt = submaker.get_srt()
-            
-            # 解析原始SRT
-            original_cues = parse_srt_content(original_srt)
-            
-            # 重新生成SRT
-            new_srt = regenerate_srt(new_segments, original_cues)
-            
-            # 保存新的SRT文件
             with open(subtitle_file, "w", encoding="utf-8") as sf:
-                sf.write(new_srt)
+                sf.write(original_srt)
         
         return audio_file, subtitle_file
     except Exception as e:
@@ -316,14 +344,21 @@ async def generate_tts(text: str, voice: str) -> tuple[str, str]:
             os.remove(audio_file)
         if os.path.exists(subtitle_file):
             os.remove(subtitle_file)
-        raise HTTPException(status_code=500, detail="音频生成失败: " + str(e))
+        # 直接返回错误信息，由上层统一处理返回格式
+        raise
 
 # TTS API端点
 @app.post("/api/tts", response_model=dict)
 async def text_to_speech(tts_request: TTSRequest, request: Request):
+    cleanup_files()
     # 验证令牌
     if tts_request.token != SECRET_TOKEN:
-        raise HTTPException(status_code=401, detail="无效的访问令牌")
+        # 返回统一格式的错误响应
+        return {
+            "code": 401,
+            "message": "无效的访问令牌",
+            "data": None
+        }
     
     try:
         # 根据translate参数决定是否翻译文本
@@ -333,7 +368,7 @@ async def text_to_speech(tts_request: TTSRequest, request: Request):
             translated_text = tts_request.text
         
         # 生成音频和字幕
-        audio_file, subtitle_file = await generate_tts(translated_text, tts_request.voice)
+        audio_file, subtitle_file = await generate_tts(translated_text, tts_request.voice, tts_request.use_custom_split)
         
         # 构造绝对URL
         port_suffix = f":{request.url.port}" if request.url.port is not None else ""
@@ -350,29 +385,47 @@ async def text_to_speech(tts_request: TTSRequest, request: Request):
             }
         }
     except Exception as e:
-        raise HTTPException(status_code=500, detail="处理失败: " + str(e))
+        error_message = str(e)
+        # 判断错误类型，返回对应的提示信息
+        message = "该角色暂时无法使用" if "No audio was received" in error_message else "处理失败: " + error_message
+        # 返回统一格式的错误响应，HTTP状态码为200，code字段为400
+        return {
+            "code": 400,
+            "message": message,
+            "data": None
+        }
 
 # 文件下载端点
 @app.get("/api/download/{filename}")
 def download_file(filename: str):
     file_path = os.path.join(os.getcwd(), "download_audio", filename)
     if not os.path.exists(file_path):
-        raise HTTPException(status_code=404, detail="文件不存在")
+        # 返回统一格式的错误响应
+        return {
+            "code": 404,
+            "message": "文件不存在",
+            "data": None
+        }
     return FileResponse(file_path, filename=filename)
 
 # 清理临时文件（可选）
 def cleanup_files():
     if os.path.exists("download_audio"):
+        # 计算7天前的时间戳（秒）
+        seven_days_ago = time.time() - 7 * 24 * 60 * 60
         for file in os.listdir("download_audio"):
             if file.endswith(".mp3") or file.endswith(".srt"):
-                if file.startswith("tts_"):
-                    os.remove(os.path.join("download_audio", file))
+                file_path = os.path.join("download_audio", file)
+                # 获取文件的修改时间
+                file_mtime = os.path.getmtime(file_path)
+                # 如果文件修改时间超过7天，则删除
+                if file_mtime < seven_days_ago:
+                    os.remove(file_path)
 
 if __name__ == "__main__":
     # 创建download_audio目录（如果不存在）
     os.makedirs("download_audio", exist_ok=True)
     # 在启动服务前清理旧文件
-    cleanup_files()
     print("启动TTS服务...")
     print(f"服务地址: http://localhost:8000")
     print(f"API文档: http://localhost:8000/docs")
