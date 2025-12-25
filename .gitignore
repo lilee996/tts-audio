@@ -6,3 +6,4 @@ download_audio
 Baidu_Text_transAPI.py
 main.py
 .env
+/build

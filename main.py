@@ -12,6 +12,7 @@ from fastapi.responses import FileResponse
 from pydantic import BaseModel
 import uvicorn
 import os
+import sys
 from dotenv import load_dotenv
 from fastapi.staticfiles import StaticFiles
 
@@ -21,7 +22,7 @@ load_dotenv()
 # 配置信息 - 从环境变量获取敏感信息
 APP_ID = os.environ.get("BAIDU_TRANSLATE_APP_ID", "")  # 百度翻译API App ID
 APP_KEY = os.environ.get("BAIDU_TRANSLATE_APP_KEY", "")  # 百度翻译API App Key
-SECRET_TOKEN = "1305381000" 
+APP_API = os.environ.get("VITE_API_BASE_URL","")                    
 # 百度翻译API配置
 TRANSLATE_ENDPOINT = "http://api.fanyi.baidu.com"
 TRANSLATE_PATH = "/api/trans/vip/translate"
@@ -347,16 +348,31 @@ async def generate_tts(text: str, voice: str, use_custom_split: bool = True) -> 
         # 直接返回错误信息，由上层统一处理返回格式
         raise
 
+# 远程验证Token
+def validate_remote_token(token: str) -> bool:
+    url = APP_API +"/api/member/validatetoken"
+    try:
+        # 发送POST请求验证token
+        response = requests.post(url, data={"token": token})
+        if response.status_code == 200:
+            result = response.json()
+            # 假设code为1表示验证通过
+            return result.get("code") == 200
+        return False
+    except Exception as e:
+        print(f"Token validation failed: {str(e)}")
+        return False
+
 # TTS API端点
 @app.post("/api/tts", response_model=dict)
 async def text_to_speech(tts_request: TTSRequest, request: Request):
     cleanup_files()
     # 验证令牌
-    if tts_request.token != SECRET_TOKEN:
+    if not validate_remote_token(tts_request.token):
         # 返回统一格式的错误响应
         return {
             "code": 401,
-            "message": "无效的访问令牌",
+            "message": "不存在用户",
             "data": None
         }
     
@@ -368,7 +384,21 @@ async def text_to_speech(tts_request: TTSRequest, request: Request):
             translated_text = tts_request.text
         
         # 生成音频和字幕
-        audio_file, subtitle_file = await generate_tts(translated_text, tts_request.voice, tts_request.use_custom_split)
+        # 增加重试机制，应对 "No audio was received" 等偶发性网络错误
+        retry_count = 3
+        last_error = None
+        
+        for i in range(retry_count):
+            try:
+                audio_file, subtitle_file = await generate_tts(translated_text, tts_request.voice, tts_request.use_custom_split)
+                break
+            except Exception as e:
+                last_error = e
+                print(f"TTS generation attempt {i+1} failed: {str(e)}")
+                if i < retry_count - 1:
+                    await asyncio.sleep(1)  # 等待1秒后重试
+                else:
+                    raise last_error
         
         # 构造绝对URL
         port_suffix = f":{request.url.port}" if request.url.port is not None else ""
@@ -387,7 +417,11 @@ async def text_to_speech(tts_request: TTSRequest, request: Request):
     except Exception as e:
         error_message = str(e)
         # 判断错误类型，返回对应的提示信息
-        message = "该角色暂时无法使用" if "No audio was received" in error_message else "处理失败: " + error_message
+        if "No audio was received" in error_message:
+            message = "该角色暂时无法使用（服务未返回音频数据，请稍后重试）"
+        else:
+            message = "处理失败: " + error_message
+            
         # 返回统一格式的错误响应，HTTP状态码为200，code字段为400
         return {
             "code": 400,
@@ -422,12 +456,16 @@ def cleanup_files():
                 if file_mtime < seven_days_ago:
                     os.remove(file_path)
 
+def resource_path(relative_path: str) -> str:
+    base_path = getattr(sys, "_MEIPASS", os.path.abspath("."))
+    return os.path.join(base_path, relative_path)
+
 if __name__ == "__main__":
     # 创建download_audio目录（如果不存在）
     os.makedirs("download_audio", exist_ok=True)
     # 在启动服务前清理旧文件
     print("启动TTS服务...")
     print(f"服务地址: http://localhost:8000")
-    print(f"API文档: http://localhost:8000/docs")
-    app.mount("/mp3", StaticFiles(directory="mp3"), name="mp3")
-    uvicorn.run(app, host="0.0.0.0", port=8000, log_level="debug")
+    # print(f"API文档: http://localhost:8000/docs")
+    # app.mount("/mp3", StaticFiles(directory=resource_path("mp3")), name="mp3")
+    uvicorn.run(app, host="127.0.0.1", port=8000, log_level="debug")

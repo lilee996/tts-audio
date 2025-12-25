@@ -13,7 +13,7 @@
 ## 🚀 快速开始
 
 ### 1. 安装依赖
-
+pyinstaller edge-tts-server.spec
 #### 创建虚拟环境
 ```powershell
 python -m venv .venv
